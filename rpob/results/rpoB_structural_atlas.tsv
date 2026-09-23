@@ -1,0 +1,29 @@
+who_pos	ecoli_pos	aa	min_dist	residue_atom	rif_atom	rif_moiety	polar_contacts_le3_5A	n_grade12_entries	grade12_entries	cryptic_solo_isolates	mechanism
+170	251	VAL	4.11	CG1	O2	naphthofuranone core		1	Val170Phe	16	direct contact
+425	506	PHE	7.84	O	C37	ansa bridge		1	Phe425_Gly426del	0	pocket shell
+426	507	GLY	7.09	O	C37	ansa bridge		3	Gly426_Thr427del, Gly426Ser, Phe425_Gly426del	3	pocket shell
+427	508	THR	5.33	O	C37	ansa bridge		10	Gly426_Thr427del, Thr427_Gln429del, Thr427_Gln429delinsLys, Thr427_Ser428del, Thr427Ala, Thr427Asn, Thr427Gly, Thr427Ile, Thr427Pro, Thr427Ser	3	pocket shell
+428	509	SER	3.98	O	C37	ansa bridge		7	Ser428Arg, Ser428Gly, Ser428Ile, Ser428Thr, Thr427_Gln429del, Thr427_Gln429delinsLys, Thr427_Ser428del	0	direct contact
+429	510	GLN	3.22	O	C14	naphthofuranone core	NE2-O5 3.36	5	Gln429His, Gln429Leu, Gln429Pro, Thr427_Gln429del, Thr427_Gln429delinsLys	0	direct contact
+430	511	LEU	3.67	CD2	C14	naphthofuranone core		4	Leu430_Gln432del, Leu430_Ser431insArg, Leu430Arg, Leu430Pro	100	direct contact
+431	512	SER	3.97	O	C37	ansa bridge		9	Leu430_Gln432del, Leu430_Ser431insArg, Ser431_Gln432insArg, Ser431_Gln432insHis, Ser431_Met434del, Ser431Arg, Ser431Asn, Ser431Gly, Ser431Thr	4	direct contact
+432	513	GLN	3.07	NE2	O2	naphthofuranone core	NE2-O2 3.07	15	Gln432_Asp435delinsHis, Gln432_Met434del, Gln432_Met434delinsLeu, Gln432_Phe433del, Gln432Asn, Gln432del, Gln432Glu, Gln432His, Gln432Leu, Gln432Lys, Gln432Pro, Leu430_Gln432del, Ser431_Gln432insArg, Ser431_Gln432insHis, Ser431_Met434del	47	direct contact
+433	514	PHE	2.68	O	O9	ansa bridge	N-O8 2.79; N-O9 3.46; O-O9 2.68	8	Gln432_Asp435delinsHis, Gln432_Met434del, Gln432_Met434delinsLeu, Gln432_Phe433del, Phe433_Asp435del, Phe433_Gln436del, Phe433dup, Ser431_Met434del	2	direct contact
+434	515	MET	4.29	C	C32	ansa bridge		14	Gln432_Asp435delinsHis, Gln432_Met434del, Gln432_Met434delinsLeu, Met434_Asn437delinsIle, Met434_Asp435del, Met434_Asp435insVal, Met434Arg, Met434Ile, Met434Leu, Met434Thr, Met434Val, Phe433_Asp435del, Phe433_Gln436del, Ser431_Met434del	2	direct contact
+435	516	ASP	3.14	OD1	C19	ansa bridge		18	Asp435_Gln436del, Asp435_Gln436delinsGlu, Asp435Ala, Asp435Asn, Asp435del, Asp435Glu, Asp435Gly, Asp435His, Asp435Leu, Asp435Phe, Asp435Tyr, Asp435Val, Gln432_Asp435delinsHis, Met434_Asn437delinsIle, Met434_Asp435del, Met434_Asp435insVal, Phe433_Asp435del, Phe433_Gln436del	840	direct contact
+436	517	GLN	5.51	N	C32	ansa bridge		9	Asp435_Gln436del, Asp435_Gln436delinsGlu, Gln436_Asn437del, Gln436Arg, Gln436Asn, Gln436del, Gln436Pro, Met434_Asn437delinsIle, Phe433_Gln436del	1	pocket shell
+437	518	ASN	6.04	OD1	C31	ansa bridge		8	Asn437_Asn438del, Asn437Asp, Asn437His, Asn437Ile, Asn437Ser, Asn437Tyr, Gln436_Asn437del, Met434_Asn437delinsIle	6	pocket shell
+438	519	ASN	10.09	N	C32	ansa bridge		3	Asn437_Asn438del, Asn438del, Asn438His	0	distal/allosteric (RRDR loop)
+439	520	PRO	12.12	O	C19	ansa bridge		3	Pro439Ala, Pro439Leu, Pro439Ser	1	distal/allosteric (RRDR loop)
+441	522	SER	6.74	O	C19	ansa bridge		7	Ser441Ala, Ser441Gln, Ser441Leu, Ser441Lys, Ser441Met, Ser441Trp, Ser441Val	12	pocket shell
+442	523	GLY	8.64	CA	C32	ansa bridge		1	Gly442Glu	0	distal/allosteric (RRDR loop)
+443	524	LEU	10.29	N	C19	ansa bridge		4	Leu443_Lys446delinsProGln, Leu443Phe, Leu443Ser, Leu443Trp	0	distal/allosteric (RRDR loop)
+444	525	THR	7.77	CG2	C16	ansa bridge		5	Leu443_Lys446delinsProGln, Thr444dup, Thr444Ile, Thr444Pro, Thr444Ser	0	pocket shell
+445	526	HIS	3.42	NE2	O10	ansa bridge	NE2-O10 3.42	15	His445_Lys446del, His445_Lys446delinsGln, His445Arg, His445Asn, His445Asp, His445Cys, His445Gln, His445Gly, His445Leu, His445Phe, His445Pro, His445Ser, His445Thr, His445Tyr, Leu443_Lys446delinsProGln	588	direct contact
+446	527	LYS	8.42	N	O10	ansa bridge		7	His445_Lys446del, His445_Lys446delinsGln, Leu443_Lys446delinsProGln, Lys446Arg, Lys446Gln, Lys446Glu, Lys446Thr	1	distal/allosteric (RRDR loop)
+448	529	ARG	3.06	NH1	O1	naphthofuranone core	NH1-O1 3.06; NH1-O10 3.24	3	Arg448Gln, Arg448Leu, Arg448Lys	1	direct contact
+449	530	LEU	5.96	C	O2	naphthofuranone core		1	Leu449Met	0	pocket shell
+450	531	SER	2.43	OG	O2	naphthofuranone core	OG-O2 2.43	11	Ser450_Leu452del, Ser450Ala, Ser450Cys, Ser450Gln, Ser450Gly, Ser450Leu, Ser450Met, Ser450Phe, Ser450Trp, Ser450Tyr, Ser450Val	3111	direct contact
+451	532	ALA	5.89	N	C14	naphthofuranone core		3	Ala451Gly, Ala451Val, Ser450_Leu452del	0	pocket shell
+452	533	LEU	3.7	CD1	C13	naphthofuranone core		4	Leu452Met, Leu452Pro, Leu452Val, Ser450_Leu452del	102	direct contact
+491	572	ILE	3.34	CG2	O11	ansa bridge		1	Ile491Phe	62	direct contact

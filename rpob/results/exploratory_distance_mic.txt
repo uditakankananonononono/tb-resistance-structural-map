@@ -1,0 +1,6 @@
+EXPLORATORY (not a locked gate). Variants with >=3 solo isolates: n=53. Spearman rho(distance, log2 median MIC) = -0.796, p = 1.00e-12
+          n  median_mic  mean_frac_R
+class                               
+contact  28        8.00     0.722283
+distal   21        0.06     0.016391
+shell     4        0.53     0.354167
