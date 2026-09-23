@@ -1,0 +1,13 @@
+MUTATION	hgvs	kind	codon	who_grade	score	n_solo	median_mic	frac_R	n_high	class	status
+P454L	p.Pro454Leu	missense	454	3.0	6.828896396929741	5	0.03	0.0	4	shell	grade3
+I491M	p.Ile491Met	missense	491	3.0	3.3419512264544027	4	0.09	0.25	4	contact	grade3
+S493W	p.Ser493Trp	missense	493	3.0	7.974265358012626	3	0.06	0.0	3	shell	grade3
+P454H	p.Pro454His	missense	454	3.0	6.828896396929741	2	0.075	0.0	2	shell	grade3
+I491Y	p.Ile491Tyr	missense	491	3.0	3.3419512264544027	1	8.0	1.0	1	contact	grade3
+H445Z	p.His445Ter	missense	445		3.419170367208979	1	0.015	0.0	1	contact	uncatalogued
+D435Z	p.Asp435Ter	missense	435		3.136009247435341	1	1.0	1.0	1	contact	uncatalogued
+L452Q	p.Leu452Gln	missense	452		3.696145289352132	1	0.06	0.0	1	contact	uncatalogued
+L452Z	p.Leu452Ter	missense	452		3.696145289352132	1	16.0	1.0	1	contact	uncatalogued
+P454S	p.Pro454Ser	missense	454	3.0	6.828896396929741	1	0.06	0.0	1	shell	grade3
+S493R	p.Ser493Arg	missense	493	3.0	7.974265358012626	1	16.0	1.0	0	shell	grade3
+V168M	p.Val168Met	missense	168	3.0	6.982912501241865	1		0.0	0	shell	grade3

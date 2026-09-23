@@ -1,0 +1,156 @@
+MUTATION	hgvs	kind	codon	who_grade	score	n_solo	median_mic	frac_R	n_high	class	status
+S450L	p.Ser450Leu	missense	450	1.0	2.4307342512088863	2993	8.0	0.9188105579685933	2414	contact	grade1
+D435V	p.Asp435Val	missense	435	1.0	3.136009247435341	712	8.0	0.8455056179775281	612	contact	grade1
+H445D	p.His445Asp	missense	445	1.0	3.419170367208979	230	16.0	0.9565217391304348	120	contact	grade1
+H445Y	p.His445Tyr	missense	445	1.0	3.419170367208979	143	16.0	0.965034965034965	130	contact	grade1
+L452P	p.Leu452Pro	missense	452	1.0	3.696145289352132	100	1.0	0.51	71	contact	grade1
+L430P	p.Leu430Pro	missense	430	1.0	3.6676522463287	98	0.25	0.15306122448979592	76	contact	grade1
+E250G	p.Glu250Gly	missense	250	4.0	47.09152385514828	92	0.06	0.010869565217391304	89	distal	grade4
+D435Y	p.Asp435Tyr	missense	435	1.0	3.136009247435341	87	2.0	0.7701149425287356	58	contact	grade1
+H445L	p.His445Leu	missense	445	1.0	3.419170367208979	85	2.0	0.8117647058823529	61	contact	grade1
+V695L	p.Val695Leu	missense	695	3.0	25.40310260578421	78	0.06	0.0	66	distal	grade3
+S450W	p.Ser450Trp	missense	450	1.0	2.4307342512088863	59	16.0	0.9322033898305084	52	contact	grade1
+I491F	p.Ile491Phe	missense	491	1.0	3.3419512264544027	57	1.0	0.6491228070175439	34	contact	grade1
+H445R	p.His445Arg	missense	445	1.0	3.419170367208979	47	16.0	0.7659574468085106	43	contact	grade1
+S450F	p.Ser450Phe	missense	450	1.0	2.4307342512088863	42	16.0	0.9047619047619048	39	contact	grade1
+H445N	p.His445Asn	missense	445	1.0	3.419170367208979	42	0.25	0.23809523809523808	24	contact	grade1
+D435F	p.Asp435Phe	missense	435	1.0	3.136009247435341	31	4.0	0.8387096774193549	25	contact	grade1
+V113I	p.Val113Ile	missense	113	3.0	18.274428363152705	26	0.06	0.0	23	distal	grade3
+R791C	p.Arg791Cys	missense	791	3.0	27.71562465469613	24	0.03	0.0	22	distal	grade3
+H445C	p.His445Cys	missense	445	1.0	3.419170367208979	23	8.0	0.9565217391304348	17	contact	grade1
+V170F	p.Val170Phe	missense	170	1.0	4.1144726272026695	16	8.0	0.9375	15	contact	grade1
+Q432P	p.Gln432Pro	missense	432	1.0	3.07134986610122	15	16.0	0.9333333333333333	12	contact	grade1
+1296_ins_ttc	p.Phe433dup	inframe_ins	432	1.0	2.677793494651891	14	16.0	0.9285714285714286	12	contact	grade1
+A686T	p.Ala686Thr	missense	686	3.0	37.39807208934706	10	0.045	0.0	9	distal	grade3
+Q432L	p.Gln432Leu	missense	432	1.0	3.07134986610122	8	8.0	0.875	7	contact	grade1
+S441L	p.Ser441Leu	missense	441	1.0	6.742019949540343	8	8.0	0.75	7	shell	grade1
+Q432K	p.Gln432Lys	missense	432	1.0	3.07134986610122	8	8.0	1.0	8	contact	grade1
+A692T	p.Ala692Thr	missense	692	3.0	31.704701622945453	7	0.03	0.0	5	distal	grade3
+S450M	p.Ser450Met	missense	450	2.0	2.4307342512088863	7	16.0	0.7142857142857143	6	contact	grade2
+D545E	p.Asp545Glu	missense	545	3.0	42.3019778970204	7	0.03	0.0	6	distal	grade3
+H445S	p.His445Ser	missense	445	1.0	3.419170367208979	7	0.25	0.2857142857142857	5	contact	grade1
+M390T	p.Met390Thr	missense	390	3.0	25.885459026256424	7	0.12	0.0	6	distal	grade3
+H445G	p.His445Gly	missense	445	2.0	3.419170367208979	6	2.5	0.8333333333333334	5	contact	grade2
+1309_del_aac	p.Asn437_Asn438del	inframe_del	437	2.0	6.035703935747672	6	1.0	0.6666666666666666	4	shell	grade2
+P358L	p.Pro358Leu	missense	358	3.0	33.6053216767821	5	0.12	0.0	4	distal	grade3
+K944E	p.Lys944Glu	missense	944	5.0	51.83470058754076	5	0.06	0.0	3	distal	grade5
+P454L	p.Pro454Leu	missense	454	3.0	6.828896396929741	5	0.03	0.0	4	shell	grade3
+Q975H	p.Gln975His	missense	975	3.0	29.673394379477383	5	0.12	0.0	5	distal	grade3
+D103E	p.Asp103Glu	missense	103	3.0	32.24407762675186	4	0.0375	0.0	3	distal	grade3
+D435G	p.Asp435Gly	missense	435	2.0	3.136009247435341	4	0.375	0.25	3	contact	grade2
+S16C	p.Ser16Cys	missense	16	3.0		4	0.185	0.0	4	unresolved	grade3
+S450Q	p.Ser450Gln	missense	450	2.0	2.4307342512088863	4	16.0	1.0	4	contact	grade2
+2546_ins_cgagga	p.Asp853_Glu854dup	inframe_ins	849	5.0	26.982372949761118	4	0.03	0.0	4	distal	grade5
+I491M	p.Ile491Met	missense	491	3.0	3.3419512264544027	4	0.09	0.25	4	contact	grade3
+D634G	p.Asp634Gly	missense	634	3.0	13.366097036906464	3	0.12	0.0	2	distal	grade3
+E320D	p.Glu320Asp	missense	320	3.0	33.90871996994284	3	0.06	0.0	2	distal	grade3
+V129G	p.Val129Gly	missense	129	3.0	29.18843375380049	3	0.12	0.0	3	distal	grade3
+S450V	p.Ser450Val	missense	450	2.0	2.4307342512088863	3	0.25	0.3333333333333333	2	contact	grade2
+S493W	p.Ser493Trp	missense	493	3.0	7.974265358012626	3	0.06	0.0	3	shell	grade3
+1277_del_gcacca	p.Thr427_Ser428del	inframe_del	426	2.0	3.979661417759056	3	4.0	0.6666666666666666	1	contact	grade2
+G675D	p.Gly675Asp	missense	675	3.0	10.26642659351344	3	0.12	0.0	2	distal	grade3
+I910V	p.Ile910Val	missense	910	3.0	27.267179007004003	3	0.03	0.0	3	distal	grade3
+K939Q	p.Lys939Gln	missense	939		41.49869993144363	3	0.03	0.0	3	distal	uncatalogued
+M587I	p.Met587Ile	missense	587	3.0	14.649540641262446	3	0.03	0.3333333333333333	1	distal	grade3
+D515Y	p.Asp515Tyr	missense	515	3.0	42.06852210382488	3	0.12	0.0	2	distal	grade3
+S441Q	p.Ser441Gln	missense	441	1.0	6.742019949540343	2	8.0	1.0	1	shell	grade1
+1304_del_acc	p.Asp435_Gln436delinsGlu	inframe_del	435	2.0	3.136009247435341	2	16.0	1.0	2	contact	grade2
+S450Y	p.Ser450Tyr	missense	450	1.0	2.4307342512088863	2	16.0	1.0	2	contact	grade1
+1291_ins_gcc	p.Ser431_Gln432insArg	inframe_ins	431	2.0	3.07134986610122	2	6.0	1.0	2	contact	grade2
+A960E	p.Ala960Glu	missense	960	3.0	37.07343718890924	2	0.185	0.0	2	distal	grade3
+H343Q	p.His343Gln	missense	343	3.0	38.2201430792717	2	0.045	0.0	1	distal	grade3
+K944N	p.Lys944Asn	missense	944	3.0	51.83470058754076	2	0.045	0.0	2	distal	grade3
+H445P	p.His445Pro	missense	445	2.0	3.419170367208979	2	8.0	0.5	2	contact	grade2
+E738A	p.Glu738Ala	missense	738	3.0	28.65143071471301	2	0.12	0.0	2	distal	grade3
+D435L	p.Asp435Leu	missense	435	2.0	3.136009247435341	2	8.0	1.0	2	contact	grade2
+M121I	p.Met121Ile	missense	121	3.0	16.481530299095407	2	0.0675	0.0	0	distal	grade3
+P454H	p.Pro454His	missense	454	3.0	6.828896396929741	2	0.075	0.0	2	shell	grade3
+N963S	p.Asn963Ser	missense	963	3.0	33.270976255589495	2	0.0375	0.0	2	distal	grade3
+A943T	p.Ala943Thr	missense	943	3.0	50.70461797509176	1	0.03	0.0	1	distal	grade3
+A902P	p.Ala902Pro	missense	902	3.0	42.0185483566484	1	0.25	0.0	0	distal	grade3
+1294_del_caa	p.Gln432_Met434del	inframe_del	432	2.0	2.677793494651891	1	8.0	1.0	0	contact	grade2
+1293_del_ccaattcatgga	p.Gln432_Phe433del	inframe_del	431	2.0	2.677793494651891	1	16.0	1.0	1	contact	grade2
+1295_del_aattcatgg	p.Gln432_Met434delinsLeu	inframe_del	432	2.0	2.677793494651891	1	16.0	1.0	1	contact	grade2
+1297_del_ttcatggac	p.Phe433_Asp435del	inframe_del	433	2.0	2.677793494651891	1	8.0	1.0	1	contact	grade2
+1299_del_catgga	p.Met434_Asp435del	inframe_del	433	2.0	2.677793494651891	1	16.0	1.0	1	contact	grade2
+1302_del_ggaccagaacaaccc	p.Asp435_Gln436del	inframe_del	434	2.0	3.136009247435341	1	8.0	1.0	1	contact	grade2
+1293_del_ccaatt	p.Gln432_Phe433del	inframe_del	431	2.0	2.677793494651891	1	16.0	1.0	1	contact	grade2
+1289_del_tgagccaattca	p.Ser431_Met434del	inframe_del	430	2.0	2.677793494651891	1	16.0	1.0	1	contact	grade2
+A753T	p.Ala753Thr	missense	753	3.0	25.708654573897874	1	0.03	0.0	1	distal	grade3
+A334V	p.Ala334Val	missense	334	3.0	36.02240831760142	1	0.03	0.0	0	distal	grade3
+A527V	p.Ala527Val	missense	527	3.0	21.59635925335565	1	0.03	0.0	0	distal	grade3
+A1152T	p.Ala1152Thr	missense	1152			1	0.12	0.0	1	unresolved	uncatalogued
+A29T	p.Ala29Thr	missense	29	3.0	28.637129971419977	1	0.03	0.0	1	distal	grade3
+A29V	p.Ala29Val	missense	29	3.0	28.637129971419977	1	0.06	0.0	1	distal	grade3
+1306_del_cag	p.Gln436del	inframe_del	436	2.0	5.51014845535037	1	8.0	1.0	1	shell	grade2
+31_ins_ctagtc		inframe_ins	11			1	0.03	0.0	1	unresolved	uncatalogued
+H194Y	p.His194Tyr	missense	194	3.0	32.719866595082564	1	0.03	0.0	1	distal	grade3
+F669L	p.Phe669Leu	missense	669	3.0	19.419703833992937	1	0.03	0.0	0	distal	grade3
+E639K	p.Glu639Lys	missense	639	3.0	27.85989364660245	1	0.03	0.0	0	distal	grade3
+G945E	p.Gly945Glu	missense	945	3.0	48.9089658549432	1	0.12	0.0	1	distal	grade3
+G642S	p.Gly642Ser	missense	642	3.0	37.09509776237287	1	0.06	0.0	1	distal	grade3
+D435A	p.Asp435Ala	missense	435	2.0	3.136009247435341	1	0.12	0.0	1	contact	grade2
+L430R	p.Leu430Arg	missense	430	2.0	3.6676522463287	1	0.06	0.0	0	contact	grade2
+L1141M	p.Leu1141Met	missense	1141		38.13635527944432	1	2.0	1.0	1	distal	uncatalogued
+L1132V	p.Leu1132Val	missense	1132		43.20676286184838	1	0.03	0.0	0	distal	uncatalogued
+I491Y	p.Ile491Tyr	missense	491	3.0	3.3419512264544027	1	8.0	1.0	1	contact	grade3
+I751V	p.Ile751Val	missense	751	3.0	21.10998765987323	1	0.06	0.0	1	distal	grade3
+I925V	p.Ile925Val	missense	925	5.0	24.623181983651087	1	0.03	0.0	1	distal	grade5
+I965V	p.Ile965Val	missense	965	3.0	29.264326559823644	1	0.12	0.0	1	distal	grade3
+K446E	p.Lys446Glu	missense	446	2.0	8.415326315717069	1	0.12	0.0	0	distal	grade2
+I744V	p.Ile744Val	missense	744		16.711805737262505	1	0.12	0.0	0	distal	uncatalogued
+H445Q	p.His445Gln	missense	445	2.0	3.419170367208979	1	0.015	0.0	0	contact	grade2
+H445Z	p.His445Ter	missense	445		3.419170367208979	1	0.015	0.0	1	contact	uncatalogued
+H343R	p.His343Arg	missense	343	3.0	38.2201430792717	1	0.03	0.0	1	distal	grade3
+H445F	p.His445Phe	missense	445	2.0	3.419170367208979	1	16.0	1.0	1	contact	grade2
+I162V	p.Ile162Val	missense	162	3.0	10.594059892222624	1	0.25	0.0	1	distal	grade3
+D1148E	p.Asp1148Glu	missense	1148	3.0		1	0.03	0.0	1	unresolved	grade3
+D3G	p.Asp3Gly	missense	3	3.0		1	0.25	0.0	1	unresolved	grade3
+D543G	p.Asp543Gly	missense	543	3.0	41.127174349814005	1	0.03	0.0	1	distal	grade3
+D435Z	p.Asp435Ter	missense	435		3.136009247435341	1	1.0	1.0	1	contact	uncatalogued
+D108E	p.Asp108Glu	missense	108	3.0	27.1107877237088	1	0.06	0.0	1	distal	grade3
+C681G	p.Cys681Gly	missense	681	3.0	24.02214195279014	1	0.12	0.0	1	distal	grade3
+D1146G	p.Asp1146Gly	missense	1146	3.0	46.24204650531807	1	0.12	0.0	1	distal	grade3
+E1011A	p.Glu1011Ala	missense	1011	3.0	44.13903104962772	1	0.06	0.0	1	distal	grade3
+E240G	p.Glu240Gly	missense	240	3.0	51.51576307306337	1	0.03	0.0	1	distal	grade3
+D752N	p.Asp752Asn	missense	752	3.0	21.462759398548933	1	0.03	0.0	0	distal	grade3
+E639G	p.Glu639Gly	missense	639	3.0	27.85989364660245	1	0.12	0.0	1	distal	grade3
+E360Q	p.Glu360Gln	missense	360	3.0	30.97743402866029	1	0.03	0.0	0	distal	grade3
+E721D	p.Glu721Asp	missense	721	3.0	32.572565035624685	1	0.03	0.0	1	distal	grade3
+P439L	p.Pro439Leu	missense	439	2.0	12.123592784319346	1	0.12	0.0	1	distal	grade2
+M434I	p.Met434Ile	missense	434	2.0	4.285499387469328	1	0.25	0.0	0	contact	grade2
+M1070I	p.Met1070Ile	missense	1070	3.0	25.689209310525708	1	0.03	0.0	1	distal	grade3
+L452Q	p.Leu452Gln	missense	452		3.696145289352132	1	0.06	0.0	1	contact	uncatalogued
+L452Z	p.Leu452Ter	missense	452		3.696145289352132	1	16.0	1.0	1	contact	uncatalogued
+S1134R	p.Ser1134Arg	missense	1134	3.0	47.5758659301121	1	0.03	0.0	1	distal	grade3
+R734H	p.Arg734His	missense	734	3.0	29.633557481341988	1	0.25	0.0	1	distal	grade3
+R448K	p.Arg448Lys	missense	448	2.0	3.060758729465622	1	4.0	1.0	0	contact	grade2
+P589A	p.Pro589Ala	missense	589		19.30312539460903	1	0.015	0.0	1	distal	uncatalogued
+P682A	p.Pro682Ala	missense	682	3.0	27.46270367243546	1	0.015	0.0	1	distal	grade3
+P700L	p.Pro700Leu	missense	700	3.0	15.784271981944554	1	0.06	0.0	1	distal	grade3
+P856L	p.Pro856Leu	missense	856	3.0	21.113102472161696	1	0.03	0.0	0	distal	grade3
+P988A	p.Pro988Ala	missense	988	3.0	43.45962073005239	1	0.12	0.0	1	distal	grade3
+P454S	p.Pro454Ser	missense	454	3.0	6.828896396929741	1	0.06	0.0	1	shell	grade3
+P502L	p.Pro502Leu	missense	502	3.0	21.130320253133885	1	0.25	0.0	1	distal	grade3
+L778M	p.Leu778Met	missense	778	3.0	32.500692577235945	1	0.25	0.0	0	distal	grade3
+L893V	p.Leu893Val	missense	893	3.0	31.29415710639927	1	0.06	0.0	0	distal	grade3
+N163D	p.Asn163Asp	missense	163	3.0	12.328570111736395	1	0.06	0.0	1	distal	grade3
+M573T	p.Met573Thr	missense	573	3.0	29.84807652094187	1	0.12	0.0	1	distal	grade3
+P1014R	p.Pro1014Arg	missense	1014	3.0	42.22280787678621	1	0.06	0.0	1	distal	grade3
+S441V	p.Ser441Val	missense	441	2.0	6.742019949540343	1	2.0	1.0	1	shell	grade2
+S672F	p.Ser672Phe	missense	672	3.0	10.209281463452752	1	0.03	0.0	1	distal	grade3
+S493R	p.Ser493Arg	missense	493	3.0	7.974265358012626	1	16.0	1.0	0	shell	grade3
+S441W	p.Ser441Trp	missense	441	2.0	6.742019949540343	1	8.0	1.0	0	shell	grade2
+S450G	p.Ser450Gly	missense	450	2.0	2.4307342512088863	1	1.0	1.0	0	contact	grade2
+T427N	p.Thr427Asn	missense	427	2.0	5.329368161424017	1	0.03	0.0	1	shell	grade2
+T427G	p.Thr427Gly	missense	427	2.0	5.329368161424017	1	0.06	0.0	1	shell	grade2
+S98A	p.Ser98Ala	missense	98	3.0	39.293813622502974	1	0.12	0.0	1	distal	grade3
+T427A	p.Thr427Ala	missense	427	2.0	5.329368161424017	1	0.015	0.0	1	shell	grade2
+V168M	p.Val168Met	missense	168	3.0	6.982912501241865	1		0.0	0	shell	grade3
+T660N	p.Thr660Asn	missense	660	3.0	38.62164659876635	1	0.03	0.0	1	distal	grade3
+V216I	p.Val216Ile	missense	216	3.0	37.67014978733161	1	0.03	0.0	1	distal	grade3
+V198M	p.Val198Met	missense	198	3.0	24.88986996751892	1	0.015	0.0	0	distal	grade3
+V33L	p.Val33Leu	missense	33	3.0	30.21556066003077	1	0.12	0.0	1	distal	grade3
+V359A	p.Val359Ala	missense	359	3.0	34.430529142027424	1	8.0	1.0	1	distal	grade3
+V613F	p.Val613Phe	missense	613	3.0	21.46455855590792	1	0.25	0.0	0	distal	grade3
+Y651H	p.Tyr651His	missense	651	3.0	29.74546612510888	1	0.12	0.0	1	distal	grade3

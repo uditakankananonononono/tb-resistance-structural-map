@@ -1,0 +1,16 @@
+solo phenotyped isolates 5286 WT phenotyped 5470 WT frac R 0.0461 WT median MIC 0.06
+variants with solo MIC: 155
+{'grade1': 24, 'grade2': 34, 'grade3': 82, 'grade4': 1, 'grade5': 3, 'uncatalogued': 11}
+plausible novel variants with MIC: 12 | G2 candidates: 0 | thin: 4
+Empty DataFrame
+Columns: [MUTATION, hgvs, status, score, class, n_solo, n_high, median_mic, frac_R]
+Index: []
+--- plausible novel below ECOFF (n>=3):
+MUTATION status    score  n_solo  median_mic  frac_R
+   P454L grade3 6.828896       5        0.03    0.00
+   I491M grade3 3.341951       4        0.09    0.25
+   S493W grade3 7.974265       3        0.06    0.00
+--- distal novel above ECOFF n>=3 (outside rule):
+Empty DataFrame
+Columns: [MUTATION, status, score, n_solo, median_mic, frac_R]
+Index: []
