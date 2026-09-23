@@ -1,0 +1,25 @@
+G1 denominator (all grade 1/2 rows): 136 {'missense_variant': 103, 'inframe_deletion': 27, 'inframe_insertion': 6}
+G1 protein-level entries: 136 plausible: 123 rate 0.9044
+{'contact': 89, 'shell': 34, 'distal': 13}
+non-protein-level grade1/2: Empty DataFrame
+Columns: [variant, effect]
+Index: []
+discrepancies:
+               variant  grade      score   class
+792   rpoB_p.Asn438del      2  10.091461  distal
+793   rpoB_p.Asn438His      2  10.091461  distal
+1013  rpoB_p.Gly442Glu      2   8.635302  distal
+1138  rpoB_p.Leu443Phe      2  10.288375  distal
+1139  rpoB_p.Leu443Ser      2  10.288375  distal
+1140  rpoB_p.Leu443Trp      2  10.288375  distal
+1176  rpoB_p.Lys446Arg      2   8.415326  distal
+1177  rpoB_p.Lys446Gln      2   8.415326  distal
+1178  rpoB_p.Lys446Glu      2   8.415326  distal
+1179  rpoB_p.Lys446Thr      2   8.415326  distal
+1252  rpoB_p.Pro439Ala      2  12.123593  distal
+1253  rpoB_p.Pro439Leu      2  12.123593  distal
+1254  rpoB_p.Pro439Ser      2  12.123593  distal
+grade3 697 plausible rate 0.0732 {'distal': 629, 'shell': 28, 'contact': 23, 'unresolved/unscorable': 17}
+grade4/5 7 plausible rate 0.0000 {'distal': 7}
+wilson95 0.843-0.943
+{'synonymous_variant': 550, 'missense_variant': 6, 'upstream_gene_variant': 2, 'inframe_insertion': 1}
