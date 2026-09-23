@@ -12,6 +12,7 @@ All files in rpob/data/. sha256 of the actual bytes. Files marked [raw, not in g
 | z_UKMYC_PHENOTYPES.parquet [raw, not in git] | https://zenodo.org/records/15680920/files/UKMYC_PHENOTYPES.parquet | CRyPTIC UKMYC MICs |
 | cryptic_RIF_phenotypes.tsv.gz | derived: DRUG==RIF | 21681 rows |
 | GENOMES.csv.gz | https://ftp.ebi.ac.uk/pub/databases/cryptic/release_june2022/reproducibility/data_tables/cryptic-analysis-group/GENOMES.csv.gz | lineage per sample |
+| RFP_ccd.cif | https://files.rcsb.org/ligands/download/RFP.cif | RFP bond graph for moiety definitions |
 | README.md, DRUG_CODES.csv | same EBI directory | CRyPTIC docs |
 | z_RELEASE_NOTES.md, z_DATA_SCHEMA.pdf | https://zenodo.org/records/15680920 | CRyPTIC docs |
 
