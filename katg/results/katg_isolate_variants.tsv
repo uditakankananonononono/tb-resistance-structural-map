@@ -1,0 +1,1655 @@
+variant	effect	n_isolates	neutral	in_catalogue	grade	struct_label	struct_reason	pos
+p.Arg463Leu	missense_variant	25143		Y	5	STRUCT-neutral		463
+p.Ser315Thr	missense_variant	16636		Y	1	STRUCT-R	R2	315
+c.-85C>T	upstream_gene_variant	1408		Y	5	NA		
+c.-278G>C	upstream_gene_variant	464		Y	5	NA		
+c.-507C>G	upstream_gene_variant	349		Y	3	NA		
+c.609C>T	synonymous_variant	339		Y	5	NA		
+p.Ser315Asn	missense_variant	220		Y	1	STRUCT-R	R2	315
+c.87C>A	synonymous_variant	210		Y	5	NA		
+c.723C>G	synonymous_variant	201		Y	5	NA		
+		99		N		NA		
+c.1653C>T	synonymous_variant	95		Y	4	NA		
+c.-62C>A	upstream_gene_variant	83		Y	3	NA		
+c.-354C>T	upstream_gene_variant	81		Y	4	NA		
+c.1434G>C	synonymous_variant	77		Y	4	NA		
+p.Ile335Val	missense_variant	66		Y	3	STRUCT-neutral		335
+deletion	feature_ablation	65		Y	2	STRUCT-R	R0-LoF	
+c.-334_-217del	upstream_gene_variant	56		Y	3	NA		
+p.Val469Leu	missense_variant	56		Y	5	STRUCT-neutral		469
+c.1197A>G	synonymous_variant	55		Y	4	NA		
+c.1095G>A	synonymous_variant	40		Y	4	NA		
+p.Thr275Ala	missense_variant	35		Y	3	STRUCT-R	R2	275
+c.-76G>A	upstream_gene_variant	35		Y	3	NA		
+p.Ser315Gly	missense_variant	32		Y	3	STRUCT-R	R2	315
+p.Met1?	start_lost	32		Y	1	STRUCT-R	R0-LoF	
+c.495T>C	synonymous_variant	32		Y	4	NA		
+c.-441C>T	upstream_gene_variant	31		Y	3	NA		
+p.Trp191Arg	missense_variant	31		Y	3	STRUCT-R	R4	191
+c.816C>T	synonymous_variant	30		Y	4	NA		
+p.Gln127Pro	missense_variant	29		Y	3	STRUCT-R	R3	127
+p.Thr380Ile	missense_variant	29		Y	3	STRUCT-R	R2	380
+p.Ala109Thr	missense_variant	28		Y	3	STRUCT-neutral		109
+p.Trp191Gly	missense_variant	27		Y	3	STRUCT-R	R4	191
+p.Ile317Val	missense_variant	25		Y	3	STRUCT-R	R2	317
+c.105C>T	synonymous_variant	25		Y	4	NA		
+c.-6A>G	upstream_gene_variant	24		Y	3	NA		
+p.Ser315Ile	missense_variant	23		Y	2	STRUCT-R	R2	315
+p.Ser140Asn	missense_variant	22		Y	3	STRUCT-neutral		140
+c.-520T>C	upstream_gene_variant	21		Y	3	NA		
+p.Gly495Ser	missense_variant	20		Y	3	STRUCT-neutral		495
+p.Thr475Ile	missense_variant	20		Y	3	STRUCT-neutral		475
+c.1416A>G	synonymous_variant	20		Y	4	NA		
+p.Thr625Ala	missense_variant	19		Y	3	STRUCT-neutral		625
+p.Pro6Ser	missense_variant	19		Y	3	NA	no-structure	6
+c.741C>T	synonymous_variant	19		Y	4	NA		
+c.-326C>T	upstream_gene_variant	19		Y	3	NA		
+c.606C>A	synonymous_variant	18		Y	4	NA		
+p.Lys557Asn	missense_variant	18		Y	3	STRUCT-neutral		557
+p.Ser315Arg	missense_variant	17		Y	1	STRUCT-R	R2	315
+p.Val473Leu	missense_variant	16		Y	3	STRUCT-neutral		473
+p.Pro280Ser	missense_variant	16		Y	3	STRUCT-neutral		280
+c.-35A>G	upstream_gene_variant	15		Y	3	NA		
+p.Pro232Ser	missense_variant	15		Y	3	STRUCT-R	R2	232
+p.Val423Ile	missense_variant	15		Y	3	STRUCT-neutral		423
+p.Thr354Ile	missense_variant	15		Y	3	STRUCT-neutral		354
+p.Ala110Val	missense_variant	14		Y	3	STRUCT-neutral		110
+p.Asp448Ala	missense_variant	14		Y	3	STRUCT-neutral		448
+p.Pro718Ser	missense_variant	13		Y	3	STRUCT-neutral		718
+c.1132C>T	synonymous_variant	13		Y	4	NA		
+p.Asp142Gly	missense_variant	13		Y	3	STRUCT-R	R3	142
+p.Ala480Ser	missense_variant	13		Y	3	STRUCT-neutral		480
+c.-10A>C	upstream_gene_variant	13		Y	3	NA		
+c.12A>G	synonymous_variant	13		Y	4	NA		
+p.Phe584Val	missense_variant	13		Y	3	STRUCT-neutral		584
+p.Trp328Leu	missense_variant	12		Y	1	STRUCT-neutral		328
+c.1563G>C	synonymous_variant	12		Y	4	NA		
+p.Ala379Val	missense_variant	12		Y	3	STRUCT-neutral		379
+p.Gly285Cys	missense_variant	12		Y	3	STRUCT-neutral		285
+c.1032G>A	synonymous_variant	11		Y	4	NA		
+c.-512G>A	upstream_gene_variant	11		Y	3	NA		
+p.Tyr155Cys	missense_variant	11		Y	3	STRUCT-R	R3	155
+c.1833C>T	synonymous_variant	11		Y	4	NA		
+p.Asn562His	missense_variant	11		Y	3	STRUCT-neutral		562
+p.Leu141Ser	missense_variant	11		Y	3	STRUCT-neutral		141
+c.585G>A	synonymous_variant	11		Y	4	NA		
+p.Tyr337Cys	missense_variant	11		Y	3	STRUCT-R	R3	337
+p.Phe167Cys	missense_variant	11		Y	3	STRUCT-R	R3	167
+p.Gln461Pro	missense_variant	11		Y	3	STRUCT-neutral		461
+p.Gly121Ser	missense_variant	10		Y	3	STRUCT-neutral		121
+p.Met257Ile	missense_variant	10		Y	3	STRUCT-neutral		257
+c.-293G>A	upstream_gene_variant	10		Y	3	NA		
+c.1233C>G	synonymous_variant	10		Y	4	NA		
+c.-259T>G	upstream_gene_variant	10		Y	3	NA		
+p.Asp189Gly	missense_variant	10		Y	3	STRUCT-R	R3	189
+p.Ala726Thr	missense_variant	10		Y	3	STRUCT-neutral		726
+p.Gly699Glu	missense_variant	10		Y	3	STRUCT-R	R3;R4	699
+p.Gly279Asp	missense_variant	10		Y	3	STRUCT-R	R3	279
+p.Gln295Lys	missense_variant	9		Y	3	STRUCT-R	R3	295
+c.1632C>T	synonymous_variant	9		Y	4	NA		
+p.Tyr155Ser	missense_variant	9		Y	3	STRUCT-R	R3	155
+c.-31C>T	upstream_gene_variant	9		Y	3	NA		
+c.-371G>A	upstream_gene_variant	9		Y	3	NA		
+c.-498delG	upstream_gene_variant	9		Y	3	NA		
+c.555C>T	synonymous_variant	9		Y	4	NA		
+p.Trp161Arg	missense_variant	9		Y	3	STRUCT-R	R3;R4	161
+c.-473T>G	upstream_gene_variant	9		Y	3	NA		
+p.Pro29Ser	missense_variant	9		Y	3	STRUCT-R	R4	29
+p.Ala264Val	missense_variant	9		Y	3	STRUCT-neutral		264
+c.141A>G	synonymous_variant	8		Y	4	NA		
+p.Met105Ile	missense_variant	8		Y	3	STRUCT-neutral		105
+p.Ala109Val	missense_variant	8		Y	3	STRUCT-neutral		109
+c.-480T>G	upstream_gene_variant	8		Y	3	NA		
+c.-273G>A	upstream_gene_variant	8		Y	3	NA		
+p.Asn138Asp	missense_variant	8		Y	3	STRUCT-R	R3	138
+p.Lys433Thr	missense_variant	8		Y	3	STRUCT-neutral		433
+p.Ser302Arg	missense_variant	8		Y	3	STRUCT-R	R3	302
+p.Gly124fs	frameshift	8		Y	2	STRUCT-R	R0-LoF	
+p.Ser457Gly	missense_variant	8		Y	3	STRUCT-neutral		457
+p.Asp656Ala	missense_variant	8		Y	3	STRUCT-neutral		656
+c.663C>T	synonymous_variant	8		Y	4	NA		
+p.Trp149Gly	missense_variant	8		Y	3	STRUCT-R	R4	149
+p.Thr677Pro	missense_variant	8		Y	3	STRUCT-R	R3	677
+p.Asn138Ser	missense_variant	8		Y	3	STRUCT-neutral		138
+c.-21C>T	upstream_gene_variant	7		Y	3	NA		
+c.1848G>A	synonymous_variant	7		Y	4	NA		
+p.Ala16fs	frameshift	7		Y	2	STRUCT-R	R0-LoF	
+p.Gly297Val	missense_variant	7		Y	3	STRUCT-R	R4	297
+p.Tyr413Cys	missense_variant	7		Y	3	STRUCT-R	R3	413
+p.Thr344Pro	missense_variant	7		Y	3	STRUCT-neutral		344
+p.Thr568Pro	missense_variant	7		Y	3	STRUCT-neutral		568
+p.Ala106Val	missense_variant	7		Y	3	STRUCT-neutral		106
+p.Asn170Lys	missense_variant	7		Y	3	STRUCT-R	R3	170
+c.-479G>A	upstream_gene_variant	7		Y	3	NA		
+c.-16T>C	upstream_gene_variant	7		Y	3	NA		
+p.Asn138His	missense_variant	7		Y	3	STRUCT-R	R3	138
+p.Gln525Pro	missense_variant	7		Y	3	STRUCT-R	R3	525
+p.Ser446Asn	missense_variant	6		Y	3	STRUCT-neutral		446
+c.-310G>T	upstream_gene_variant	6		Y	3	NA		
+c.144G>A	synonymous_variant	6		Y	4	NA		
+p.Pro432Leu	missense_variant	6		Y	3	STRUCT-R	R3	432
+p.Leu141Phe	missense_variant	6		Y	3	STRUCT-neutral		141
+p.Ter741Argext*?	stop_lost	6		Y	3	NA		
+c.-497delA	upstream_gene_variant	6		Y	3	NA		
+p.Ala144Val	missense_variant	6		Y	3	STRUCT-neutral		144
+c.288C>T	synonymous_variant	6		Y	4	NA		
+p.Val47Ile	missense_variant	6		Y	3	STRUCT-neutral		47
+p.Ala606Pro	missense_variant	6		Y	3	STRUCT-R	R3	606
+c.1284G>T	synonymous_variant	6		Y	4	NA		
+p.Asp419Tyr	missense_variant	6		Y	3	STRUCT-R	R3	419
+p.Thr394Ala	missense_variant	6		Y	3	STRUCT-neutral		394
+c.-8G>C	upstream_gene_variant	6		Y	3	NA		
+c.1767C>A	synonymous_variant	6		Y	4	NA		
+p.Leu587Pro	missense_variant	6		Y	3	STRUCT-R	R3	587
+p.Leu707Arg	missense_variant	6		Y	3	STRUCT-R	R4	707
+p.Ala480del	inframe_deletion	6		Y	3	NA		
+p.Pro232Ala	missense_variant	6		Y	3	STRUCT-R	R2	232
+c.-452G>A	upstream_gene_variant	6		Y	3	NA		
+p.Gly299Ser	missense_variant	6		Y	3	STRUCT-neutral		299
+p.Phe62Leu	missense_variant	6		Y	3	STRUCT-neutral		62
+p.Ser211Asn	missense_variant	6		Y	3	STRUCT-neutral		211
+c.-395G>A	upstream_gene_variant	6		Y	3	NA		
+c.-461C>T	upstream_gene_variant	6		Y	3	NA		
+p.Glu651Asp	missense_variant	6		Y	3	STRUCT-neutral		651
+p.Thr667Pro	missense_variant	6		Y	3	STRUCT-neutral		667
+c.-317C>A	upstream_gene_variant	6		Y	3	NA		
+p.Gly285Val	missense_variant	6		Y	3	STRUCT-neutral		285
+p.Ala614Thr	missense_variant	6		Y	3	STRUCT-neutral		614
+p.Gly169Ser	missense_variant	6		Y	3	STRUCT-neutral		169
+p.Asn529Thr	missense_variant	6		Y	3	STRUCT-neutral		529
+p.Gln439His	missense_variant	6		Y	3	STRUCT-R	R3	439
+c.-527G>A	upstream_gene_variant	5		Y	3	NA		
+c.432G>C	synonymous_variant	5		N		NA		
+p.Met126Ile	missense_variant	5		Y	3	STRUCT-neutral		126
+c.-28G>T	upstream_gene_variant	5		Y	3	NA		
+p.Glu82Gly	missense_variant	5		Y	3	STRUCT-neutral		82
+c.1767C>T	synonymous_variant	5		Y	4	NA		
+p.Glu82Asp	missense_variant	5		Y	3	STRUCT-neutral		82
+p.Ile8fs	frameshift	5		Y	2	STRUCT-R	R0-LoF	
+p.Leu378Met	missense_variant	5		Y	3	STRUCT-R	R2	378
+c.-52_-41delCGATCACATCCG	upstream_gene_variant	5		Y	3	NA		
+c.1776T>C	synonymous_variant	5		Y	4	NA		
+p.Asn596Ser	missense_variant	5		Y	3	STRUCT-neutral		596
+p.Glu3Gly	missense_variant	5		Y	3	NA	no-structure	3
+c.-1T>C	upstream_gene_variant	5		Y	3	NA		
+c.1014C>T	synonymous_variant	5		Y	4	NA		
+p.Ile248Thr	missense_variant	5		Y	3	STRUCT-R	R2	248
+p.Asp675Tyr	missense_variant	5		Y	3	STRUCT-neutral		675
+c.-370G>A	upstream_gene_variant	5		Y	3	NA		
+p.Asp142Asn	missense_variant	5		Y	3	STRUCT-R	R3	142
+p.Trp91Arg	missense_variant	5		Y	3	STRUCT-R	R3	91
+p.Tyr597His	missense_variant	5		Y	3	STRUCT-R	R3	597
+c.-29C>A	upstream_gene_variant	5		Y	3	NA		
+c.981A>G	synonymous_variant	5		Y	4	NA		
+p.Val697Leu	missense_variant	5		Y	3	STRUCT-neutral		697
+c.-9A>C	upstream_gene_variant	5		Y	3	NA		
+p.Gly494Ala	missense_variant	5		Y	3	STRUCT-neutral		494
+c.-500G>T	upstream_gene_variant	5		Y	3	NA		
+p.Tyr413His	missense_variant	5		Y	3	STRUCT-R	R3	413
+p.Ala244Gly	missense_variant	5		Y	3	STRUCT-neutral		244
+c.-463T>C	upstream_gene_variant	5		Y	3	NA		
+p.Asn493Ser	missense_variant	5		Y	3	STRUCT-neutral		493
+p.Ile364Thr	missense_variant	5		Y	3	STRUCT-neutral		364
+p.Val386Glu	missense_variant	5		Y	3	STRUCT-neutral		386
+p.Thr690Pro	missense_variant	5		Y	3	STRUCT-neutral		690
+c.-156A>C	upstream_gene_variant	5		Y	3	NA		
+c.-431C>G	upstream_gene_variant	5		Y	3	NA		
+p.Leu704Val	missense_variant	5		Y	3	STRUCT-neutral		704
+c.-467G>A	upstream_gene_variant	5		Y	3	NA		
+p.Ala110Thr	missense_variant	5		Y	3	STRUCT-neutral		110
+p.Thr380Pro	missense_variant	4		Y	3	STRUCT-R	R2;R3	380
+p.Trp412*	stop_gained	4		Y	2	STRUCT-R	R0-LoF	
+c.-337C>A	upstream_gene_variant	4		Y	3	NA		
+p.Arg104Gln	missense_variant	4		Y	3	STRUCT-R	R1;R2	104
+c.-111A>G	upstream_gene_variant	4		Y	3	NA		
+c.-459C>T	upstream_gene_variant	4		Y	3	NA		
+p.Arg145Cys	missense_variant	4		Y	3	STRUCT-R	R3	145
+p.Gly125Asp	missense_variant	4		Y	3	STRUCT-R	R3	125
+p.Leu132Pro	missense_variant	4		Y	3	STRUCT-R	R3	132
+p.Leu587Arg	missense_variant	4		Y	3	STRUCT-R	R3	587
+p.Trp149Arg	missense_variant	4		Y	3	STRUCT-R	R4	149
+c.421T>C	synonymous_variant	4		N		NA		
+c.-302G>C	upstream_gene_variant	4		Y	3	NA		
+c.1047C>A	synonymous_variant	4		Y	4	NA		
+p.Ile462Ser	missense_variant	4		Y	3	STRUCT-neutral		462
+p.Gly125Ser	missense_variant	4		Y	3	STRUCT-neutral		125
+p.Val23Leu	missense_variant	4		Y	3	NA	no-structure	23
+c.1212G>A	synonymous_variant	4		Y	4	NA		
+p.Leu298Ser	missense_variant	4		Y	3	STRUCT-R	R4	298
+p.Arg571His	missense_variant	4		Y	3	STRUCT-neutral		571
+p.Asp419His	missense_variant	4		Y	3	STRUCT-R	R3	419
+c.-249T>G	upstream_gene_variant	4		Y	3	NA		
+p.Gln36Pro	missense_variant	4		Y	3	STRUCT-R	R4	36
+c.-375A>G	upstream_gene_variant	4		Y	3	NA		
+p.Glu233Gly	missense_variant	4		Y	3	STRUCT-neutral		233
+c.-475T>G	upstream_gene_variant	4		Y	3	NA		
+p.Asp94Ala	missense_variant	4		Y	3	STRUCT-R	R2;R3	94
+p.Ala162Val	missense_variant	4		Y	3	STRUCT-neutral		162
+p.Gly19Val	missense_variant	4		Y	3	NA	no-structure	19
+c.-495T>G	upstream_gene_variant	4		Y	3	NA		
+c.966G>A	synonymous_variant	4		Y	4	NA		
+p.Trp477*	stop_gained	4		Y	2	STRUCT-R	R0-LoF	
+p.Asn660Asp	missense_variant	4		Y	3	STRUCT-R	R3	660
+p.Asp513Asn	missense_variant	4		Y	3	STRUCT-neutral		513
+p.Lys157Asn	missense_variant	4		Y	3	STRUCT-neutral		157
+c.-185T>C	upstream_gene_variant	4		Y	3	NA		
+c.390G>C	synonymous_variant	4		N		NA		
+c.-489T>C	upstream_gene_variant	4		Y	3	NA		
+p.Gly593Cys	missense_variant	4		Y	3	STRUCT-neutral		593
+p.Ile71Ser	missense_variant	4		Y	3	STRUCT-neutral		71
+p.Val22fs	frameshift	4		Y	2	STRUCT-R	R0-LoF	
+c.-409G>C	upstream_gene_variant	4		Y	3	NA		
+p.Ala172Val	missense_variant	4		Y	3	STRUCT-neutral		172
+p.Ala476Val	missense_variant	4		Y	3	STRUCT-neutral		476
+p.Val68Gly	missense_variant	4		Y	3	STRUCT-neutral		68
+c.-499G>A	upstream_gene_variant	4		Y	3	NA		
+c.-8G>A	upstream_gene_variant	4		Y	3	NA		
+p.Ala591Thr	missense_variant	4		Y	3	STRUCT-neutral		591
+p.Gln439Arg	missense_variant	4		Y	3	STRUCT-R	R3	439
+p.Gln439Pro	missense_variant	4		Y	3	STRUCT-R	R3	439
+p.Trp300Gly	missense_variant	4		Y	3	STRUCT-R	R3	300
+p.Tyr98Cys	missense_variant	4		Y	3	STRUCT-R	R3	98
+c.1101G>A	synonymous_variant	4		Y	4	NA		
+p.Ala541Thr	missense_variant	4		Y	3	STRUCT-neutral		541
+p.Arg484His	missense_variant	4		Y	3	STRUCT-neutral		484
+c.1296C>A	synonymous_variant	4		Y	4	NA		
+p.Gly121Asp	missense_variant	4		Y	3	STRUCT-R	R3	121
+p.Thr271Ile	missense_variant	4		Y	3	STRUCT-neutral		271
+c.-233C>G	upstream_gene_variant	4		Y	3	NA		
+c.729C>T	synonymous_variant	4		Y	4	NA		
+p.Asp94Gly	missense_variant	4		Y	3	STRUCT-R	R2;R3	94
+p.Gln525Ser	missense_variant	4		Y	3	STRUCT-neutral		525
+p.Glu402Lys	missense_variant	4		Y	3	STRUCT-neutral		402
+p.Gly118Ser	missense_variant	4		Y	3	STRUCT-neutral		118
+p.Thr271Pro	missense_variant	4		Y	3	STRUCT-R	R3	271
+c.57C>T	synonymous_variant	4		Y	4	NA		
+c.141A>C	synonymous_variant	4		Y	4	NA		
+p.Thr85Ala	missense_variant	4		Y	3	STRUCT-neutral		85
+c.1743G>T	synonymous_variant	4		Y	4	NA		
+p.Lys200Glu	missense_variant	4		Y	3	STRUCT-neutral		200
+p.Asp735Ala	missense_variant	4		Y	3	STRUCT-R	R3	735
+p.Pro131Gln	missense_variant	4		Y	3	STRUCT-R	R4	131
+c.-18_-17insG	upstream_gene_variant	3		Y	3	NA		
+c.-331G>A	upstream_gene_variant	3		Y	3	NA		
+p.Asp311Gly	missense_variant	3		Y	3	STRUCT-R	R3	311
+p.Glu669fs	frameshift	3		Y	2	STRUCT-R	R0-LoF	
+p.Leu336Met	missense_variant	3		Y	3	STRUCT-neutral		336
+c.-516G>A	upstream_gene_variant	3		Y	3	NA		
+p.Ile393fs	frameshift	3		Y	2	STRUCT-R	R0-LoF	
+c.1758G>A	synonymous_variant	3		Y	4	NA		
+c.735G>C	synonymous_variant	3		Y	4	NA		
+p.Arg489Cys	missense_variant	3		Y	3	STRUCT-R	R3	489
+p.His97Leu	missense_variant	3		Y	3	STRUCT-R	R3	97
+p.Val697Ala	missense_variant	3		Y	3	STRUCT-neutral		697
+p.Gly120Ser	missense_variant	3		Y	3	STRUCT-neutral		120
+p.Gly560Ala	missense_variant	3		Y	3	STRUCT-neutral		560
+c.384G>C	synonymous_variant	3		N		NA		
+p.Pro131Ser	missense_variant	3		Y	3	STRUCT-R	R4	131
+p.Thr344Ser	missense_variant	3		Y	3	STRUCT-neutral		344
+c.1497G>A	synonymous_variant	3		Y	4	NA		
+c.396T>C	synonymous_variant	3		N		NA		
+p.Ala649Thr	missense_variant	3		Y	3	STRUCT-neutral		649
+p.Ile228Leu	missense_variant	3		Y	3	STRUCT-neutral		228
+p.Leu734Arg	missense_variant	3		Y	3	STRUCT-R	R3	734
+c.-316G>A	upstream_gene_variant	3		Y	3	NA		
+c.2187C>T	synonymous_variant	3		Y	4	NA		
+c.-485_-484insTGTCT	upstream_gene_variant	3		Y	3	NA		
+c.-6A>C	upstream_gene_variant	3		Y	3	NA		
+c.570G>A	synonymous_variant	3		Y	4	NA		
+p.Ser700Phe	missense_variant	3		Y	3	STRUCT-R	R4	700
+c.-406C>A	upstream_gene_variant	3		Y	3	NA		
+p.Val473Ala	missense_variant	3		Y	3	STRUCT-neutral		473
+p.Val739Met	missense_variant	3		Y	3	STRUCT-neutral		739
+p.Arg145Pro	missense_variant	3		Y	3	STRUCT-R	R3	145
+p.Lys537Glu	missense_variant	3		Y	3	STRUCT-neutral		537
+p.Thr85Pro	missense_variant	3		Y	3	STRUCT-neutral		85
+p.Val586Met	missense_variant	3		Y	3	STRUCT-neutral		586
+c.-256G>A	upstream_gene_variant	3		Y	3	NA		
+p.Gly534Arg	missense_variant	3		Y	3	STRUCT-neutral		534
+p.Thr322Ala	missense_variant	3		Y	3	STRUCT-neutral		322
+c.-253T>G	upstream_gene_variant	3		Y	3	NA		
+p.Asp189Asn	missense_variant	3		Y	3	STRUCT-R	R3	189
+p.Asp74Gly	missense_variant	3		Y	3	STRUCT-neutral		74
+p.Glu709Ala	missense_variant	3		Y	3	STRUCT-R	R4	709
+p.His49Tyr	missense_variant	3		Y	3	STRUCT-neutral		49
+p.Ile103Val	missense_variant	3		Y	3	STRUCT-R	R2	103
+c.-145C>G	upstream_gene_variant	3		Y	3	NA		
+p.Ala172Thr	missense_variant	3		Y	3	STRUCT-neutral		172
+p.Arg146Gln	missense_variant	3		Y	3	STRUCT-neutral		146
+p.Asn596Thr	missense_variant	3		Y	3	STRUCT-neutral		596
+p.Gly560Ser	missense_variant	3		Y	3	STRUCT-neutral		560
+p.Pro533Leu	missense_variant	3		Y	3	STRUCT-neutral		533
+p.Asp215Glu	missense_variant	3		Y	3	STRUCT-neutral		215
+p.Asn493Lys	missense_variant	3		Y	3	STRUCT-R	R3	493
+p.Asp194Asn	missense_variant	3		Y	3	STRUCT-neutral		194
+p.Phe183Leu	missense_variant	3		Y	3	STRUCT-neutral		183
+p.Ter741Trpext*?	stop_lost	3		Y	3	NA		
+c.-243G>A	upstream_gene_variant	3		Y	3	NA		
+p.Ile335fs	frameshift	3		Y	2	STRUCT-R	R0-LoF	
+p.Phe368Leu	missense_variant	3		Y	3	STRUCT-neutral		368
+c.-323G>A	upstream_gene_variant	3		Y	3	NA		
+c.-491A>G	upstream_gene_variant	3		Y	3	NA		
+p.Ala139Thr	missense_variant	3		Y	3	STRUCT-neutral		139
+p.Leu48Pro	missense_variant	3		Y	3	STRUCT-R	R3	48
+c.-475T>C	upstream_gene_variant	3		Y	3	NA		
+p.Gly156Asp	missense_variant	3		Y	3	STRUCT-R	R4	156
+p.Gly234Arg	missense_variant	3		Y	3	STRUCT-R	R3	234
+p.Trp300Arg	missense_variant	3		Y	3	STRUCT-R	R3	300
+c.-206C>A	upstream_gene_variant	3		Y	3	NA		
+c.2110T>C	synonymous_variant	3		Y	4	NA		
+p.Arg425Gly	missense_variant	3		Y	3	STRUCT-R	R3	425
+p.Glu3fs	frameshift	3		Y	2	STRUCT-R	R0-LoF	
+p.Gly630Ser	missense_variant	3		Y	3	STRUCT-neutral		630
+p.Pro136Leu	missense_variant	3		Y	3	STRUCT-neutral		136
+p.Val260Ile	missense_variant	3		Y	3	STRUCT-neutral		260
+c.-7G>T	upstream_gene_variant	3		Y	3	NA		
+p.Ala411Asp	missense_variant	3		Y	3	STRUCT-R	R3	411
+p.Glu506Asp	missense_variant	3		Y	3	STRUCT-neutral		506
+c.-373A>G	upstream_gene_variant	3		Y	3	NA		
+p.Arg249Ser	missense_variant	3		Y	3	STRUCT-neutral		249
+p.Gly182Glu	missense_variant	3		Y	3	STRUCT-R	R3	182
+p.Trp438Gly	missense_variant	3		Y	3	STRUCT-R	R3	438
+p.Val83Leu	missense_variant	3		Y	3	STRUCT-neutral		83
+p.Ala256Gly	missense_variant	3		Y	3	STRUCT-neutral		256
+p.Asp487Asn	missense_variant	3		Y	3	STRUCT-R	R3	487
+p.Thr376Met	missense_variant	3		Y	3	STRUCT-neutral		376
+p.Val166Ile	missense_variant	3		Y	3	STRUCT-neutral		166
+p.Asp682Asn	missense_variant	3		Y	3	STRUCT-neutral		682
+p.Gly494Ser	missense_variant	3		Y	3	STRUCT-neutral		494
+c.-13T>C	upstream_gene_variant	3		Y	3	NA		
+c.-247G>A	upstream_gene_variant	3		Y	3	NA		
+c.549C>T	synonymous_variant	3		Y	4	NA		
+p.Ala379Thr	missense_variant	3		Y	3	STRUCT-neutral		379
+p.Leu159Ile	missense_variant	3		N		STRUCT-neutral		159
+p.Leu132Arg	missense_variant	3		Y	3	STRUCT-R	R3	132
+p.Lys459Thr	missense_variant	3		Y	3	STRUCT-R	R3	459
+p.Trp300Cys	missense_variant	3		Y	3	STRUCT-R	R3	300
+c.-124G>A	upstream_gene_variant	3		Y	3	NA		
+c.-304C>A	upstream_gene_variant	3		Y	3	NA		
+c.123C>T	synonymous_variant	3		Y	4	NA		
+p.His400fs	frameshift	3		Y	2	STRUCT-R	R0-LoF	
+p.Thr468Pro	missense_variant	3		Y	3	STRUCT-neutral		468
+p.Val319Ile	missense_variant	3		Y	3	STRUCT-neutral		319
+c.408C>G	synonymous_variant	3		N		NA		
+p.Ala713Pro	missense_variant	3		Y	3	STRUCT-R	R4	713
+p.Asn323Ser	missense_variant	3		Y	3	STRUCT-neutral		323
+p.Lys143Glu	missense_variant	3		Y	3	STRUCT-R	R3	143
+p.Met624Val	missense_variant	3		Y	3	STRUCT-neutral		624
+p.Met84Leu	missense_variant	3		Y	3	STRUCT-neutral		84
+p.Pro429Arg	missense_variant	3		Y	3	STRUCT-neutral		429
+c.228G>T	synonymous_variant	3		Y	4	NA		
+c.480A>C	synonymous_variant	3		N		NA		
+p.Ala359_Gly362del	inframe_deletion	3		Y	3	NA		
+p.Gly285Asp	missense_variant	3		Y	3	STRUCT-neutral		285
+p.Gly491Ser	missense_variant	3		Y	3	STRUCT-neutral		491
+p.Trp438*	stop_gained	3		Y	2	STRUCT-R	R0-LoF	
+c.-443G>A	upstream_gene_variant	3		Y	3	NA		
+p.Ala222Thr	missense_variant	3		Y	3	STRUCT-neutral		222
+p.Ala243Thr	missense_variant	3		Y	3	STRUCT-neutral		243
+p.Phe540Ser	missense_variant	3		Y	3	STRUCT-R	R3	540
+c.-132A>G	upstream_gene_variant	3		Y	3	NA		
+c.267G>A	synonymous_variant	3		Y	4	NA		
+c.-246C>T	upstream_gene_variant	2		Y	3	NA		
+c.-350G>A	upstream_gene_variant	2		Y	3	NA		
+c.396T>G	synonymous_variant	2		N		NA		
+c.438G>C	synonymous_variant	2		N		NA		
+c.546G>C	synonymous_variant	2		Y	4	NA		
+p.Arg146Gly	missense_variant	2		Y	3	STRUCT-R	R4	146
+p.Asp79Ala	missense_variant	2		Y	3	STRUCT-R	R3	79
+p.Cys20fs	frameshift	2		Y	2	STRUCT-R	R0-LoF	
+p.Glu289Ala	missense_variant	2		Y	3	STRUCT-R	R4	289
+p.Gly169Ala	missense_variant	2		Y	3	STRUCT-neutral		169
+p.Met377Arg	missense_variant	2		Y	3	STRUCT-R	R3	377
+p.Ser652fs	frameshift	2		Y	2	STRUCT-R	R0-LoF	
+c.-477C>T	upstream_gene_variant	2		Y	3	NA		
+c.-480T>C	upstream_gene_variant	2		Y	3	NA		
+c.1080T>C	synonymous_variant	2		Y	4	NA		
+c.1668A>C	synonymous_variant	2		Y	4	NA		
+c.615C>A	synonymous_variant	2		Y	4	NA		
+p.Ala312Pro	missense_variant	2		Y	3	STRUCT-R	R3	312
+p.Asp163Asn	missense_variant	2		Y	3	STRUCT-R	R3	163
+p.Asp163fs	frameshift	2		Y	2	STRUCT-R	R0-LoF	
+p.Glu454Ala	missense_variant	2		Y	3	STRUCT-R	R3	454
+p.Glu607Lys	missense_variant	2		Y	3	STRUCT-R	R3	607
+p.Gly277Ser	missense_variant	2		Y	3	STRUCT-neutral		277
+p.Ser160Pro	missense_variant	2		Y	3	STRUCT-R	R3	160
+p.Tyr229Cys	missense_variant	2		Y	3	STRUCT-R	R1;R2;R3	229
+c.-82T>C	upstream_gene_variant	2		Y	3	NA		
+c.1518G>A	synonymous_variant	2		Y	4	NA		
+c.1923A>G	synonymous_variant	2		Y	4	NA		
+c.1968C>T	synonymous_variant	2		Y	4	NA		
+c.2151G>A	synonymous_variant	2		Y	4	NA		
+c.2202C>G	synonymous_variant	2		Y	4	NA		
+c.690G>C	synonymous_variant	2		Y	4	NA		
+p.Ala139Val	missense_variant	2		N		STRUCT-neutral		139
+p.Ala290Pro	missense_variant	2		Y	3	STRUCT-R	R4	290
+p.Asp189Ala	missense_variant	2		Y	3	STRUCT-R	R3	189
+p.Gln525fs	frameshift	2		Y	2	STRUCT-R	R0-LoF	
+p.Gly685Asp	missense_variant	2		Y	3	STRUCT-neutral		685
+p.Thr647Pro	missense_variant	2		Y	3	STRUCT-R	R3	647
+c.-308C>T	upstream_gene_variant	2		Y	3	NA		
+p.His116Tyr	missense_variant	2		Y	3	STRUCT-neutral		116
+p.Pro367Leu	missense_variant	2		Y	3	STRUCT-R	R3	367
+p.Pro566Ser	missense_variant	2		Y	3	STRUCT-neutral		566
+p.Ser650del	inframe_deletion	2		N		NA		
+p.Val431Gly	missense_variant	2		Y	3	STRUCT-neutral		431
+c.1299G>A	synonymous_variant	2		Y	4	NA		
+p.Ala144Thr	missense_variant	2		Y	3	STRUCT-neutral		144
+p.Ala621Asp	missense_variant	2		Y	3	STRUCT-R	R3	621
+p.Glu651_Ser652insAla	inframe_insertion	2		N		NA		
+p.Gly121Ala	missense_variant	2		Y	3	STRUCT-neutral		121
+p.Gly34Ala	missense_variant	2		Y	3	STRUCT-neutral		34
+p.Gly593Ser	missense_variant	2		Y	3	STRUCT-neutral		593
+p.Leu382Arg	missense_variant	2		Y	3	STRUCT-R	R3	382
+p.Met26fs	frameshift	2		Y	2	STRUCT-R	R0-LoF	
+p.Trp397Gly	missense_variant	2		Y	3	STRUCT-R	R3	397
+c.-347T>C	upstream_gene_variant	2		Y	3	NA		
+p.Ala492Asp	missense_variant	2		Y	3	STRUCT-R	R3	492
+p.Arg498Leu	missense_variant	2		Y	3	STRUCT-neutral		498
+p.Asp440Tyr	missense_variant	2		Y	3	STRUCT-R	R3	440
+p.Ile393Ser	missense_variant	2		Y	3	STRUCT-neutral		393
+p.Leu604Ser	missense_variant	2		Y	3	STRUCT-R	R4	604
+p.Phe594Leu	missense_variant	2		Y	3	STRUCT-neutral		594
+c.-34C>T	upstream_gene_variant	2		Y	3	NA		
+c.-86T>G	upstream_gene_variant	2		Y	3	NA		
+p.Ala162Thr	missense_variant	2		Y	3	STRUCT-neutral		162
+p.Glu399Asp	missense_variant	2		Y	3	STRUCT-neutral		399
+p.Lys152Thr	missense_variant	2		Y	3	STRUCT-R	R3;R4	152
+p.Ser700Pro	missense_variant	2		Y	3	STRUCT-R	R4	700
+p.Trp90Arg	missense_variant	2		Y	3	STRUCT-R	R4	90
+c.-186T>C	upstream_gene_variant	2		Y	3	NA		
+c.-2C>T	upstream_gene_variant	2		Y	3	NA		
+c.1704C>T	synonymous_variant	2		Y	4	NA		
+c.439C>T	synonymous_variant	2		Y	4	NA		
+c.702G>C	synonymous_variant	2		Y	4	NA		
+p.Ala60Val	missense_variant	2		Y	3	STRUCT-neutral		60
+p.Gly268Ser	missense_variant	2		Y	3	STRUCT-neutral		268
+p.Leu436Arg	missense_variant	2		Y	3	STRUCT-neutral		436
+p.Pro622fs	frameshift	2		Y	2	STRUCT-R	R0-LoF	
+p.Val431fs	frameshift	2		Y	2	STRUCT-R	R0-LoF	
+c.-108A>T	upstream_gene_variant	2		Y	3	NA		
+c.-21C>G	upstream_gene_variant	2		Y	3	NA		
+c.-9A>T	upstream_gene_variant	2		Y	3	NA		
+c.1210T>C	synonymous_variant	2		Y	4	NA		
+p.Ala93Asp	missense_variant	2		Y	3	STRUCT-R	R3	93
+p.Asp240Asn	missense_variant	2		Y	3	STRUCT-neutral		240
+p.Asp511Asn	missense_variant	2		Y	3	STRUCT-neutral		511
+p.Gly490Ser	missense_variant	2		Y	3	STRUCT-neutral		490
+p.Thr271Ala	missense_variant	2		Y	3	STRUCT-neutral		271
+p.Trp689Gly	missense_variant	2		Y	3	STRUCT-R	R3	689
+c.417C>T	synonymous_variant	2		Y	4	NA		
+p.Arg515His	missense_variant	2		Y	3	STRUCT-neutral		515
+p.Glu607Asp	missense_variant	2		Y	3	STRUCT-neutral		607
+p.Tyr390Ser	missense_variant	2		Y	3	STRUCT-R	R3	390
+c.-128T>G	upstream_gene_variant	2		Y	3	NA		
+c.1566A>G	synonymous_variant	2		Y	4	NA		
+c.2205C>T	synonymous_variant	2		N		NA		
+p.Arg128Trp	missense_variant	2		Y	3	STRUCT-R	R3;R4	128
+p.Arg249His	missense_variant	2		Y	3	STRUCT-neutral		249
+p.Asn51fs	frameshift	2		Y	2	STRUCT-R	R0-LoF	
+p.Asp240Ala	missense_variant	2		Y	3	STRUCT-neutral		240
+p.Gln50Pro	missense_variant	2		Y	3	STRUCT-neutral		50
+p.Glu342fs	frameshift	2		Y	2	STRUCT-R	R0-LoF	
+p.Trp149*	stop_gained	2		Y	2	STRUCT-R	R0-LoF	
+c.-100G>A	upstream_gene_variant	2		Y	3	NA		
+c.-503A>C	upstream_gene_variant	2		Y	3	NA		
+c.1809G>A	synonymous_variant	2		Y	4	NA		
+c.1977G>A	synonymous_variant	2		Y	4	NA		
+c.363C>T	synonymous_variant	2		Y	4	NA		
+p.Ala478fs	frameshift	2		Y	2	STRUCT-R	R0-LoF	
+p.Ala551fs	frameshift	2		Y	2	STRUCT-R	R0-LoF	
+p.Phe178Val	missense_variant	2		Y	3	STRUCT-neutral		178
+c.-221C>A	upstream_gene_variant	2		Y	3	NA		
+c.-223G>C	upstream_gene_variant	2		Y	3	NA		
+c.-395G>C	upstream_gene_variant	2		Y	3	NA		
+c.-40T>C	upstream_gene_variant	2		Y	3	NA		
+c.-455A>G	upstream_gene_variant	2		Y	3	NA		
+p.Arg595Leu	missense_variant	2		Y	3	STRUCT-R	R3	595
+p.Asn535fs	frameshift	2		Y	2	STRUCT-R	R0-LoF	
+p.Thr380Ala	missense_variant	2		Y	3	STRUCT-R	R2	380
+p.Trp351*	stop_gained	2		Y	2	STRUCT-R	R0-LoF	
+p.Trp505*	stop_gained	2		Y	2	STRUCT-R	R0-LoF	
+p.Trp668Cys	missense_variant	2		Y	3	STRUCT-R	R4	668
+p.Val538fs	frameshift	2		Y	2	STRUCT-R	R0-LoF	
+c.1683C>T	synonymous_variant	2		Y	4	NA		
+c.705G>C	synonymous_variant	2		Y	4	NA		
+p.Asn660His	missense_variant	2		Y	3	STRUCT-R	R3	660
+p.Gln352*	stop_gained	2		Y	2	STRUCT-R	R0-LoF	
+p.Gly186Ala	missense_variant	2		Y	3	STRUCT-neutral		186
+p.Leu43Arg	missense_variant	2		Y	3	STRUCT-R	R3;R4	43
+p.Ser652Pro	missense_variant	2		Y	3	STRUCT-R	R3	652
+p.Thr12Ala	missense_variant	2		Y	3	NA	no-structure	12
+p.Thr380_Gly494delinsSer	inframe_deletion	2		Y	3	NA		
+p.Val710Gly	missense_variant	2		Y	3	STRUCT-R	R4	710
+c.1128G>A	synonymous_variant	2		Y	4	NA		
+c.1309C>T	synonymous_variant	2		Y	4	NA		
+p.Asp663Tyr	missense_variant	2		Y	3	STRUCT-neutral		663
+p.Gln461Glu	missense_variant	2		Y	3	STRUCT-neutral		461
+p.Gln679Pro	missense_variant	2		Y	3	STRUCT-R	R3	679
+p.Glu709Gly	missense_variant	2		Y	3	STRUCT-R	R4	709
+p.Gly237Ala	missense_variant	2		Y	3	STRUCT-neutral		237
+p.Gly299Asp	missense_variant	2		Y	3	STRUCT-R	R3	299
+p.Trp328Cys	missense_variant	2		Y	3	STRUCT-neutral		328
+p.Tyr678Leu	missense_variant	2		Y	3	STRUCT-R	R4	678
+c.-225G>A	upstream_gene_variant	2		Y	3	NA		
+c.1389G>T	synonymous_variant	2		Y	4	NA		
+p.Ala256Thr	missense_variant	2		Y	3	STRUCT-neutral		256
+p.Gly125Cys	missense_variant	2		Y	3	STRUCT-neutral		125
+p.Gly285Ser	missense_variant	2		Y	3	STRUCT-neutral		285
+p.Pro569Leu	missense_variant	2		Y	3	STRUCT-R	R3	569
+p.Trp198fs	frameshift	2		Y	2	STRUCT-R	R0-LoF	
+p.Trp321*	stop_gained	2		Y	2	STRUCT-R	R0-LoF	
+p.Val320Leu	missense_variant	2		Y	3	STRUCT-neutral		320
+c.-11G>C	upstream_gene_variant	2		Y	3	NA		
+c.-163G>A	upstream_gene_variant	2		Y	3	NA		
+c.-27A>G	upstream_gene_variant	2		Y	3	NA		
+c.-521G>T	upstream_gene_variant	2		Y	3	NA		
+c.2028G>T	synonymous_variant	2		Y	4	NA		
+c.414C>T	synonymous_variant	2		Y	4	NA		
+p.Glu607Gly	missense_variant	2		Y	3	STRUCT-R	R3;R4	607
+p.Gly369Ala	missense_variant	2		Y	3	STRUCT-neutral		369
+p.Lys143Thr	missense_variant	2		Y	3	STRUCT-R	R3	143
+p.Pro288His	missense_variant	2		Y	3	STRUCT-R	R3	288
+c.-171A>G	upstream_gene_variant	2		Y	3	NA		
+c.-4T>G	upstream_gene_variant	2		Y	3	NA		
+c.192T>C	synonymous_variant	2		Y	4	NA		
+c.87C>T	synonymous_variant	2		Y	4	NA		
+p.Ala264Thr	missense_variant	2		Y	3	STRUCT-neutral		264
+p.Arg496His	missense_variant	2		Y	3	STRUCT-neutral		496
+p.Gly466Arg	missense_variant	2		Y	3	STRUCT-neutral		466
+p.Gly712Asp	missense_variant	2		Y	3	STRUCT-R	R3;R4	712
+p.Ile266Thr	missense_variant	2		Y	3	STRUCT-R	R2	266
+p.Leu598Arg	missense_variant	2		Y	3	STRUCT-neutral		598
+p.Pro292Ala	missense_variant	2		Y	3	STRUCT-neutral		292
+p.Pro422fs	frameshift	2		Y	2	STRUCT-R	R0-LoF	
+p.Trp728Phe	missense_variant	2		Y	3	STRUCT-neutral		728
+p.Val260Leu	missense_variant	2		Y	3	STRUCT-neutral		260
+p.Val633Ile	missense_variant	2		Y	3	STRUCT-neutral		633
+c.-131C>G	upstream_gene_variant	2		Y	3	NA		
+c.-325C>G	upstream_gene_variant	2		Y	3	NA		
+c.-445A>T	upstream_gene_variant	2		Y	3	NA		
+c.-499G>T	upstream_gene_variant	2		Y	3	NA		
+c.1485T>A	synonymous_variant	2		N		NA		
+c.1665A>G	synonymous_variant	2		Y	4	NA		
+c.687C>T	synonymous_variant	2		Y	4	NA		
+p.Asn562delinsLysHisHisGlyAlaPro	inframe_insertion	2		N		NA		
+p.Leu514Pro	missense_variant	2		Y	3	STRUCT-R	R3	514
+p.Val73Ala	missense_variant	2		Y	3	STRUCT-neutral		73
+c.-490T>C	upstream_gene_variant	2		Y	3	NA		
+c.1107C>T	synonymous_variant	2		Y	4	NA		
+c.135G>A	synonymous_variant	2		Y	4	NA		
+p.Gly307Val	missense_variant	2		Y	3	STRUCT-neutral		307
+p.Met609Thr	missense_variant	2		Y	3	STRUCT-neutral		609
+p.Trp149Cys	missense_variant	2		Y	3	STRUCT-R	R4	149
+p.Trp351fs	frameshift	2		Y	2	STRUCT-R	R0-LoF	
+c.-85_-81delCTATGinsT	upstream_gene_variant	2		Y	3	NA		
+c.1488C>T	synonymous_variant	2		N		NA		
+c.636T>C	synonymous_variant	2		Y	4	NA		
+p.Arg145His	missense_variant	2		Y	3	STRUCT-neutral		145
+p.Arg146Leu	missense_variant	2		Y	3	STRUCT-R	R4	146
+p.Gln471Arg	missense_variant	2		Y	3	STRUCT-R	R3	471
+p.Gly338Ser	missense_variant	2		Y	3	STRUCT-neutral		338
+p.Leu458Arg	missense_variant	2		Y	3	STRUCT-R	R3	458
+p.Lys433fs	frameshift	2		Y	2	STRUCT-R	R0-LoF	
+p.Trp328Arg	missense_variant	2		Y	3	STRUCT-neutral		328
+p.Val386fs	frameshift	2		Y	2	STRUCT-R	R0-LoF	
+c.-47A>C	upstream_gene_variant	2		Y	3	NA		
+c.1803C>T	synonymous_variant	2		Y	4	NA		
+c.1962C>G	synonymous_variant	2		Y	4	NA		
+c.2166G>A	synonymous_variant	2		Y	4	NA		
+p.Asn133Asp	missense_variant	2		N		STRUCT-R	R3	133
+p.Asn637Lys	missense_variant	2		Y	3	STRUCT-R	R3	637
+p.Gly212fs	frameshift	2		Y	2	STRUCT-R	R0-LoF	
+p.Thr251Pro	missense_variant	2		Y	3	STRUCT-R	R3	251
+p.Val538Ala	missense_variant	2		Y	3	STRUCT-neutral		538
+c.435C>G	synonymous_variant	2		N		NA		
+p.Tyr197Asp	missense_variant	2		Y	3	STRUCT-R	R4	197
+p.Val320Ala	missense_variant	2		Y	3	STRUCT-neutral		320
+c.-475T>A	upstream_gene_variant	2		Y	3	NA		
+c.1035G>A	synonymous_variant	2		Y	4	NA		
+c.2025C>T	synonymous_variant	2		Y	4	NA		
+p.Ala424Val	missense_variant	2		Y	3	STRUCT-neutral		424
+p.Gly121del	inframe_deletion	2		Y	3	NA		
+p.Leu382fs	frameshift	2		Y	2	STRUCT-R	R0-LoF	
+p.Leu427Arg	missense_variant	2		Y	3	STRUCT-R	R3	427
+p.Leu427Pro	missense_variant	2		Y	3	STRUCT-R	R3	427
+p.Lys143Asn	missense_variant	2		Y	3	STRUCT-R	R3	143
+c.-187delG	upstream_gene_variant	2		Y	3	NA		
+c.-340C>T	upstream_gene_variant	2		Y	3	NA		
+c.1494C>G	synonymous_variant	2		N		NA		
+p.Ala348Gly	missense_variant	2		Y	3	STRUCT-neutral		348
+p.Asp419Ala	missense_variant	2		Y	3	STRUCT-R	R3	419
+p.Ile536fs	frameshift	2		Y	2	STRUCT-R	R0-LoF	
+p.Tyr64Asp	missense_variant	2		Y	3	STRUCT-R	R3	64
+c.-282G>A	upstream_gene_variant	2		Y	3	NA		
+c.1192C>T	synonymous_variant	2		Y	4	NA		
+c.195C>A	synonymous_variant	2		Y	4	NA		
+p.Gln295Pro	missense_variant	2		Y	3	STRUCT-R	R3	295
+p.Gly182Arg	missense_variant	2		Y	3	STRUCT-R	R3	182
+p.Lys152Gln	missense_variant	2		Y	3	STRUCT-R	R3	152
+p.Met624Ile	missense_variant	2		Y	3	STRUCT-neutral		624
+p.Ser17Gly	missense_variant	2		Y	3	NA	no-structure	17
+p.Ser481Leu	missense_variant	2		Y	3	STRUCT-neutral		481
+p.Val565Gly	missense_variant	2		Y	3	STRUCT-neutral		565
+c.-522A>C	upstream_gene_variant	2		Y	3	NA		
+p.Ala139Pro	missense_variant	2		Y	3	STRUCT-R	R3	139
+p.Ala606Thr	missense_variant	2		Y	3	STRUCT-neutral		606
+p.Asp37Asn	missense_variant	2		Y	3	STRUCT-neutral		37
+p.Gln679Tyr	missense_variant	2		Y	3	STRUCT-neutral		679
+p.Glu623fs	frameshift	2		Y	2	STRUCT-R	R0-LoF	
+p.Gly124Gln	missense_variant	2		N		STRUCT-R	R3	124
+p.Gly124del	inframe_deletion	2		Y	3	NA		
+p.Gly177Ala	missense_variant	2		Y	3	STRUCT-neutral		177
+p.Leu159Phe	missense_variant	2		Y	3	STRUCT-neutral		159
+p.Met242Thr	missense_variant	2		Y	3	STRUCT-neutral		242
+p.Val386Met	missense_variant	2		Y	3	STRUCT-neutral		386
+p.Val517fs	frameshift	2		Y	2	STRUCT-R	R0-LoF	
+c.-344T>C	upstream_gene_variant	2		Y	3	NA		
+c.411C>T	synonymous_variant	2		Y	4	NA		
+c.99C>T	synonymous_variant	2		Y	4	NA		
+p.Gln295Ala	missense_variant	2		Y	3	STRUCT-neutral		295
+p.Gln576Tyr	missense_variant	2		Y	3	STRUCT-neutral		576
+p.Glu342Ala	missense_variant	2		Y	3	STRUCT-neutral		342
+p.Leu378Pro	missense_variant	2		Y	3	STRUCT-R	R2;R3	378
+p.Lys158Glu	missense_variant	2		Y	3	STRUCT-neutral		158
+p.Phe272Leu	missense_variant	2		Y	3	STRUCT-R	R2	272
+p.Pro7fs	frameshift	2		Y	2	STRUCT-R	R0-LoF	
+c.-128T>C	upstream_gene_variant	2		Y	3	NA		
+c.1080T>G	synonymous_variant	2		Y	4	NA		
+c.558C>T	synonymous_variant	2		Y	4	NA		
+p.Asp381Ala	missense_variant	2		Y	3	STRUCT-R	R1;R3	381
+p.Glu588Gly	missense_variant	2		Y	3	STRUCT-neutral		588
+p.Glu709Asp	missense_variant	2		Y	3	STRUCT-neutral		709
+p.Gly124Ala	missense_variant	2		Y	3	STRUCT-neutral		124
+p.Gly699Arg	missense_variant	2		Y	3	STRUCT-R	R3;R4	699
+p.Leu333Pro	missense_variant	2		Y	3	STRUCT-R	R3	333
+p.Met84Val	missense_variant	2		Y	3	STRUCT-neutral		84
+p.Ser140Gly	missense_variant	2		Y	3	STRUCT-neutral		140
+p.Thr625Lys	missense_variant	2		Y	3	STRUCT-R	R3	625
+c.-274C>T	upstream_gene_variant	2		Y	3	NA		
+c.-530C>T	upstream_gene_variant	2		Y	3	NA		
+c.1581A>G	synonymous_variant	2		Y	4	NA		
+c.27A>T	synonymous_variant	2		Y	4	NA		
+c.924C>G	synonymous_variant	2		Y	4	NA		
+p.Asn508Asp	missense_variant	2		Y	3	STRUCT-R	R3	508
+p.Ile462Met	missense_variant	2		Y	3	STRUCT-neutral		462
+c.-49T>C	upstream_gene_variant	2		Y	3	NA		
+c.357C>T	synonymous_variant	2		Y	4	NA		
+c.579C>A	synonymous_variant	2		Y	4	NA		
+c.627T>C	synonymous_variant	2		N		NA		
+p.Gln679Glu	missense_variant	2		Y	3	STRUCT-R	R3	679
+p.Gly629Cys	missense_variant	2		Y	3	STRUCT-neutral		629
+p.Phe129Ser	missense_variant	2		Y	3	STRUCT-R	R3;R4	129
+p.Pro429del	inframe_deletion	2		Y	3	NA		
+p.Trp668*	stop_gained	2		Y	2	STRUCT-R	R0-LoF	
+c.-334G>A	upstream_gene_variant	2		Y	3	NA		
+c.-364A>G	upstream_gene_variant	2		Y	3	NA		
+c.-402A>C	upstream_gene_variant	2		Y	3	NA		
+c.-77T>C	upstream_gene_variant	2		Y	3	NA		
+c.1257C>T	synonymous_variant	2		Y	4	NA		
+c.1461C>T	synonymous_variant	2		Y	4	NA		
+p.Arg249Cys	missense_variant	2		Y	3	STRUCT-neutral		249
+p.Gln434His	missense_variant	2		Y	3	STRUCT-neutral		434
+p.Leu611Arg	missense_variant	2		Y	3	STRUCT-R	R3;R4	611
+p.Trp198*	stop_gained	2		Y	2	STRUCT-R	R0-LoF	
+p.Tyr155Asp	missense_variant	2		Y	3	STRUCT-R	R3	155
+p.Tyr678Ala	missense_variant	2		Y	3	STRUCT-R	R3;R4	678
+p.Val83Gly	missense_variant	2		Y	3	STRUCT-neutral		83
+c.-215C>G	upstream_gene_variant	1		Y	3	NA		
+c.-53G>T	upstream_gene_variant	1		Y	3	NA		
+c.108G>A	synonymous_variant	1		Y	4	NA		
+c.1119C>T	synonymous_variant	1		Y	4	NA		
+c.231G>A	synonymous_variant	1		Y	4	NA		
+c.540G>C	synonymous_variant	1		N		NA		
+p.Ala122Asp	missense_variant	1		Y	3	STRUCT-R	R3	122
+p.Arg693His	missense_variant	1		Y	3	STRUCT-neutral		693
+p.Asp387His	missense_variant	1		Y	3	STRUCT-R	R3	387
+p.Asp656fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Gln352His	missense_variant	1		Y	3	STRUCT-R	R3	352
+p.Glu3Val	missense_variant	1		Y	3	NA	no-structure	3
+p.Glu67del	inframe_deletion	1		Y	3	NA		
+p.Gly184Asp	missense_variant	1		Y	3	STRUCT-R	R3	184
+p.Gly273Ser	missense_variant	1		Y	3	STRUCT-R	R2	273
+p.Gly99Arg	missense_variant	1		Y	3	STRUCT-R	R3	99
+p.Ile455fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Leu436fs	frameshift	1		N		STRUCT-R	R0-LoF	
+p.Leu634Pro	missense_variant	1		Y	3	STRUCT-R	R3	634
+p.Lys200Arg	missense_variant	1		Y	3	STRUCT-neutral		200
+p.Lys488Glu	missense_variant	1		Y	3	STRUCT-neutral		488
+p.Pro235Ser	missense_variant	1		Y	3	STRUCT-R	R3	235
+p.Thr306Pro	missense_variant	1		Y	3	STRUCT-neutral		306
+p.Thr324Pro	missense_variant	1		Y	3	STRUCT-R	R3	324
+p.Val267Gly	missense_variant	1		Y	3	STRUCT-neutral		267
+p.Val30fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Val538Leu	missense_variant	1		Y	3	STRUCT-neutral		538
+c.-233C>A	upstream_gene_variant	1		Y	3	NA		
+c.-242C>T	upstream_gene_variant	1		Y	3	NA		
+c.-273_-272dupGA	upstream_gene_variant	1		Y	3	NA		
+c.-377C>T	upstream_gene_variant	1		Y	3	NA		
+c.-378C>G	upstream_gene_variant	1		Y	3	NA		
+c.-421C>A	upstream_gene_variant	1		Y	3	NA		
+c.-451C>T	upstream_gene_variant	1		Y	3	NA		
+c.-64T>C	upstream_gene_variant	1		Y	3	NA		
+c.-95dupC	upstream_gene_variant	1		Y	3	NA		
+c.780C>T	synonymous_variant	1		Y	4	NA		
+p.Ala130Glu	missense_variant	1		Y	3	STRUCT-R	R4	130
+p.Ala130Thr	missense_variant	1		Y	3	STRUCT-neutral		130
+p.Ala531Ser	missense_variant	1		Y	3	STRUCT-neutral		531
+p.Ala621Gly	missense_variant	1		Y	3	STRUCT-neutral		621
+p.Asn35fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Asp542Glu	missense_variant	1		Y	3	STRUCT-neutral		542
+p.Gln352Tyr	missense_variant	1		Y	3	STRUCT-neutral		352
+p.Gly177Val	missense_variant	1		Y	3	STRUCT-neutral		177
+p.Gly534Ala	missense_variant	1		N		STRUCT-neutral		534
+p.His116Ala	missense_variant	1		N		STRUCT-neutral		116
+p.Ile536del	inframe_deletion	1		N		NA		
+p.Leu343_Ser346delinsArg	inframe_deletion	1		Y	3	NA		
+p.Leu604Phe	missense_variant	1		Y	3	STRUCT-neutral		604
+p.Leu661Arg	missense_variant	1		Y	3	STRUCT-R	R3;R4	661
+p.Phe594Ile	missense_variant	1		Y	3	STRUCT-neutral		594
+p.Phe658Val	missense_variant	1		Y	3	STRUCT-neutral		658
+p.Phe698Leu	missense_variant	1		Y	3	STRUCT-neutral		698
+p.Ser474Pro	missense_variant	1		Y	3	STRUCT-R	R3	474
+p.Thr363Ala	missense_variant	1		Y	3	STRUCT-neutral		363
+p.Trp39fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Tyr337Phe	missense_variant	1		N		STRUCT-neutral		337
+c.-150C>A	upstream_gene_variant	1		Y	3	NA		
+c.-197G>A	upstream_gene_variant	1		Y	3	NA		
+c.-1T>G	upstream_gene_variant	1		Y	3	NA		
+c.-309A>G	upstream_gene_variant	1		Y	3	NA		
+c.-403G>A	upstream_gene_variant	1		Y	3	NA		
+c.1137C>T	synonymous_variant	1		Y	4	NA		
+c.1143C>T	synonymous_variant	1		Y	4	NA		
+c.1170T>C	synonymous_variant	1		Y	4	NA		
+c.327T>C	synonymous_variant	1		N		NA		
+c.72T>G	synonymous_variant	1		Y	4	NA		
+c.978G>C	synonymous_variant	1		N		NA		
+p.Ala202Ser	missense_variant	1		Y	3	STRUCT-neutral		202
+p.Ala53Thr	missense_variant	1		Y	3	STRUCT-neutral		53
+p.Asp282Gly	missense_variant	1		Y	3	STRUCT-neutral		282
+p.Asp723Asn	missense_variant	1		Y	3	STRUCT-neutral		723
+p.Glu10fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Glu607*	stop_gained	1		Y	2	STRUCT-R	R0-LoF	
+p.Gly273Arg	missense_variant	1		N		STRUCT-R	R2;R3	273
+p.Gly285Ala	missense_variant	1		Y	3	STRUCT-neutral		285
+p.Gly599Arg	missense_variant	1		Y	3	STRUCT-neutral		599
+p.Ile80Phe	missense_variant	1		Y	3	STRUCT-neutral		80
+p.Leu147Ala	missense_variant	1		Y	3	STRUCT-neutral		147
+p.Leu205Arg	missense_variant	1		Y	3	STRUCT-neutral		205
+p.Lys153Glu	missense_variant	1		Y	3	STRUCT-neutral		153
+p.Lys557Arg	missense_variant	1		Y	3	STRUCT-neutral		557
+p.Phe483Leu	missense_variant	1		Y	3	STRUCT-neutral		483
+p.Phe567Tyr	missense_variant	1		Y	3	STRUCT-neutral		567
+p.Pro566Leu	missense_variant	1		Y	3	STRUCT-neutral		566
+p.Pro57Ser	missense_variant	1		Y	3	STRUCT-R	R4	57
+p.Ser465Pro	missense_variant	1		Y	3	STRUCT-neutral		465
+p.Trp204*	stop_gained	1		Y	2	STRUCT-R	R0-LoF	
+p.Trp300Ser	missense_variant	1		Y	3	STRUCT-R	R3	300
+p.Trp668fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Tyr113*	stop_gained	1		Y	2	STRUCT-R	R0-LoF	
+p.Tyr64His	missense_variant	1		Y	3	STRUCT-R	R3	64
+p.Val445fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+c.-10A>G	upstream_gene_variant	1		Y	3	NA		
+c.-172G>A	upstream_gene_variant	1		Y	3	NA		
+c.-183T>G	upstream_gene_variant	1		Y	3	NA		
+c.-351T>G	upstream_gene_variant	1		N		NA		
+c.-458dupC	upstream_gene_variant	1		Y	3	NA		
+c.-511A>G	upstream_gene_variant	1		Y	3	NA		
+c.1014C>G	synonymous_variant	1		Y	4	NA		
+c.1284G>A	synonymous_variant	1		Y	4	NA		
+c.1446G>A	synonymous_variant	1		Y	4	NA		
+c.1759C>T	synonymous_variant	1		Y	4	NA		
+c.1851T>G	synonymous_variant	1		N		NA		
+c.1866T>C	synonymous_variant	1		N		NA		
+c.2172C>T	synonymous_variant	1		N		NA		
+c.468C>T	synonymous_variant	1		Y	4	NA		
+c.966G>T	synonymous_variant	1		Y	4	NA		
+p.Ala122Pro	missense_variant	1		Y	3	STRUCT-R	R3	122
+p.Arg254His	missense_variant	1		Y	3	STRUCT-neutral		254
+p.Arg498Cys	missense_variant	1		Y	3	STRUCT-neutral		498
+p.Arg571Gly	missense_variant	1		Y	3	STRUCT-R	R3	571
+p.Arg705Leu	missense_variant	1		Y	3	STRUCT-R	R4	705
+p.Gly169Arg	missense_variant	1		Y	3	STRUCT-R	R3	169
+p.Gly285Arg	missense_variant	1		Y	3	STRUCT-neutral		285
+p.Gly299Cys	missense_variant	1		Y	3	STRUCT-neutral		299
+p.Gly421Ala	missense_variant	1		Y	3	STRUCT-neutral		421
+p.Gly593Asp	missense_variant	1		Y	3	STRUCT-R	R3	593
+p.His561fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Phe183Cys	missense_variant	1		N		STRUCT-R	R3	183
+p.Ser140Arg	missense_variant	1		Y	3	STRUCT-R	R3	140
+p.Trp107*	stop_gained	1		Y	2	STRUCT-R	R0-LoF	
+p.Trp300*	stop_gained	1		Y	2	STRUCT-R	R0-LoF	
+p.Tyr64Asn	missense_variant	1		Y	3	STRUCT-neutral		64
+p.Tyr95fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Val230Ala	missense_variant	1		Y	3	STRUCT-R	R2	230
+p.Val423Phe	missense_variant	1		Y	3	STRUCT-neutral		423
+p.Val628Gly	missense_variant	1		Y	3	STRUCT-neutral		628
+c.-100_-98dupGTC	upstream_gene_variant	1		N		NA		
+c.-208A>G	upstream_gene_variant	1		Y	3	NA		
+c.-231G>A	upstream_gene_variant	1		Y	3	NA		
+c.-285C>A	upstream_gene_variant	1		N		NA		
+c.-296C>G	upstream_gene_variant	1		Y	3	NA		
+c.-345T>C	upstream_gene_variant	1		Y	3	NA		
+c.-349C>A	upstream_gene_variant	1		Y	3	NA		
+c.-466G>C	upstream_gene_variant	1		Y	3	NA		
+c.-481G>T	upstream_gene_variant	1		Y	3	NA		
+c.-494C>T	upstream_gene_variant	1		Y	3	NA		
+c.-508C>G	upstream_gene_variant	1		Y	3	NA		
+c.1041T>C	synonymous_variant	1		N		NA		
+c.216C>T	synonymous_variant	1		Y	4	NA		
+c.534C>T	synonymous_variant	1		Y	4	NA		
+c.540G>A	synonymous_variant	1		Y	4	NA		
+p.Ala263Pro	missense_variant	1		Y	3	STRUCT-R	R3	263
+p.Ala706Thr	missense_variant	1		Y	3	STRUCT-neutral		706
+p.Arg395Leu	missense_variant	1		Y	3	STRUCT-neutral		395
+p.Asp163Glu	missense_variant	1		Y	3	STRUCT-neutral		163
+p.Asp37Gly	missense_variant	1		Y	3	STRUCT-neutral		37
+p.Glu648fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Leu141Val	missense_variant	1		Y	3	STRUCT-neutral		141
+p.Leu384Pro	missense_variant	1		Y	3	STRUCT-R	R3	384
+p.Leu437Arg	missense_variant	1		Y	3	STRUCT-neutral		437
+p.Lys200fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Lys310Asn	missense_variant	1		Y	3	STRUCT-neutral		310
+p.Lys345Asn	missense_variant	1		Y	3	STRUCT-neutral		345
+p.Lys459Glu	missense_variant	1		Y	3	STRUCT-R	R3	459
+p.Met126Gln	missense_variant	1		N		STRUCT-neutral		126
+p.Phe102Val	missense_variant	1		N		STRUCT-neutral		102
+p.Phe252Leu	missense_variant	1		Y	3	STRUCT-R	R2	252
+p.Phe724Leu	missense_variant	1		Y	3	STRUCT-neutral		724
+p.Thr203fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Thr275Pro	missense_variant	1		Y	3	STRUCT-R	R2;R3	275
+p.Thr308Ser	missense_variant	1		N		STRUCT-neutral		308
+p.Trp397*	stop_gained	1		Y	2	STRUCT-R	R0-LoF	
+p.Val223Leu	missense_variant	1		N		STRUCT-neutral		223
+c.-155G>C	upstream_gene_variant	1		N		NA		
+c.-17C>T	upstream_gene_variant	1		Y	3	NA		
+c.-187G>T	upstream_gene_variant	1		Y	3	NA		
+c.-205G>C	upstream_gene_variant	1		N		NA		
+c.-418C>T	upstream_gene_variant	1		Y	3	NA		
+c.-494_-493insGTC	upstream_gene_variant	1		Y	3	NA		
+c.-497A>G	upstream_gene_variant	1		Y	3	NA		
+c.-81G>A	upstream_gene_variant	1		Y	3	NA		
+c.1495C>T	synonymous_variant	1		Y	4	NA		
+c.1921T>C	synonymous_variant	1		Y	4	NA		
+c.372C>G	synonymous_variant	1		N		NA		
+c.847C>T	synonymous_variant	1		Y	4	NA		
+c.894G>A	synonymous_variant	1		Y	4	NA		
+p.Asn493His	missense_variant	1		Y	3	STRUCT-R	R3	493
+p.Asp37Glu	missense_variant	1		Y	3	STRUCT-neutral		37
+p.Glu294Gly	missense_variant	1		Y	3	STRUCT-R	R4	294
+p.Ile103Asn	missense_variant	1		Y	3	STRUCT-R	R2	103
+p.Ile248Val	missense_variant	1		Y	3	STRUCT-R	R2	248
+p.Lys213Glu	missense_variant	1		N		STRUCT-neutral		213
+p.Trp689fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Val450Ala	missense_variant	1		Y	3	STRUCT-neutral		450
+c.-209C>T	upstream_gene_variant	1		Y	3	NA		
+c.-217C>T	upstream_gene_variant	1		N		NA		
+c.-468C>T	upstream_gene_variant	1		Y	3	NA		
+c.-92C>A	upstream_gene_variant	1		Y	3	NA		
+c.1278C>T	synonymous_variant	1		Y	4	NA		
+c.1473C>T	synonymous_variant	1		Y	4	NA		
+c.1635G>T	synonymous_variant	1		Y	4	NA		
+c.1950C>A	synonymous_variant	1		Y	4	NA		
+p.Ala122Gly	missense_variant	1		N		STRUCT-neutral		122
+p.Ala559fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Ala621Thr	missense_variant	1		Y	3	STRUCT-neutral		621
+p.Arg128Pro	missense_variant	1		N		STRUCT-R	R3;R4	128
+p.Arg463Trp	missense_variant	1		Y	3	STRUCT-neutral		463
+p.Asn51Thr	missense_variant	1		Y	3	STRUCT-neutral		51
+p.Asp329fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Glu195Lys	missense_variant	1		Y	3	STRUCT-neutral		195
+p.Glu208Lys	missense_variant	1		N		STRUCT-neutral		208
+p.Glu233Lys	missense_variant	1		Y	3	STRUCT-neutral		233
+p.Glu588*	stop_gained	1		Y	2	STRUCT-R	R0-LoF	
+p.Gly34fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Leu48Gln	missense_variant	1		Y	3	STRUCT-neutral		48
+p.Leu521Pro	missense_variant	1		Y	3	STRUCT-R	R3	521
+p.Met242Ile	missense_variant	1		Y	3	STRUCT-neutral		242
+p.Met609Ile	missense_variant	1		Y	3	STRUCT-neutral		609
+p.Phe658Leu	missense_variant	1		Y	3	STRUCT-neutral		658
+p.Pro432Thr	missense_variant	1		Y	3	STRUCT-R	R3	432
+p.Thr380Ser	missense_variant	1		Y	3	STRUCT-R	R2	380
+p.Trp321Ser	missense_variant	1		Y	3	STRUCT-R	R1;R2;R3	321
+p.Trp505Arg	missense_variant	1		Y	3	STRUCT-R	R3	505
+c.-14C>G	upstream_gene_variant	1		Y	3	NA		
+c.-152A>G	upstream_gene_variant	1		Y	3	NA		
+c.-20C>T	upstream_gene_variant	1		Y	3	NA		
+c.-250G>T	upstream_gene_variant	1		Y	3	NA		
+c.-447G>A	upstream_gene_variant	1		Y	3	NA		
+c.-478T>C	upstream_gene_variant	1		Y	3	NA		
+c.1815G>A	synonymous_variant	1		Y	4	NA		
+c.330C>T	synonymous_variant	1		Y	4	NA		
+c.678G>T	synonymous_variant	1		N		NA		
+c.9G>A	synonymous_variant	1		Y	4	NA		
+p.Ala559Val	missense_variant	1		Y	3	STRUCT-neutral		559
+p.Ala574Val	missense_variant	1		Y	3	STRUCT-neutral		574
+p.Asn655Asp	missense_variant	1		Y	3	STRUCT-R	R3	655
+p.Cys171Gly	missense_variant	1		Y	3	STRUCT-neutral		171
+p.Gln461Arg	missense_variant	1		Y	3	STRUCT-neutral		461
+p.Gly124Thr	missense_variant	1		N		STRUCT-neutral		124
+p.Gly307Glu	missense_variant	1		Y	3	STRUCT-R	R3	307
+p.Gly570Phe	missense_variant	1		Y	3	STRUCT-R	R3	570
+p.Gly683Arg	missense_variant	1		Y	3	STRUCT-neutral		683
+p.His97Tyr	missense_variant	1		Y	3	STRUCT-R	R3	97
+p.Ile455Met	missense_variant	1		Y	3	STRUCT-neutral		455
+p.Pro510Ala	missense_variant	1		Y	3	STRUCT-neutral		510
+p.Pro92Ser	missense_variant	1		Y	3	STRUCT-neutral		92
+p.Trp39Arg	missense_variant	1		Y	3	STRUCT-R	R4	39
+p.Trp412Cys	missense_variant	1		Y	3	STRUCT-R	R2;R3	412
+p.Trp728Cys	missense_variant	1		Y	3	STRUCT-R	R3	728
+p.Val721Leu	missense_variant	1		Y	3	STRUCT-neutral		721
+p.Val731Gly	missense_variant	1		Y	3	STRUCT-neutral		731
+c.-229G>A	upstream_gene_variant	1		Y	3	NA		
+c.-506A>T	upstream_gene_variant	1		Y	3	NA		
+c.1032G>C	synonymous_variant	1		N		NA		
+c.1356A>G	synonymous_variant	1		Y	4	NA		
+c.2019A>G	synonymous_variant	1		Y	4	NA		
+c.354C>T	synonymous_variant	1		N		NA		
+c.462G>A	synonymous_variant	1		Y	4	NA		
+c.633C>T	synonymous_variant	1		Y	4	NA		
+c.972C>T	synonymous_variant	1		Y	4	NA		
+p.Ala162Glu	missense_variant	1		Y	3	STRUCT-R	R3	162
+p.Ala551Gly	missense_variant	1		Y	3	STRUCT-neutral		551
+p.Arg705Trp	missense_variant	1		Y	3	STRUCT-R	R4	705
+p.Asp419Gly	missense_variant	1		Y	3	STRUCT-R	R3	419
+p.Gln525Thr	missense_variant	1		Y	3	STRUCT-neutral		525
+p.Gly358fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Ile666Thr	missense_variant	1		Y	3	STRUCT-neutral		666
+p.Lys459fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Lys686Glu	missense_variant	1		Y	3	STRUCT-neutral		686
+p.Pro672Ser	missense_variant	1		Y	3	STRUCT-neutral		672
+p.Ser302fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Thr180Met	missense_variant	1		Y	3	STRUCT-neutral		180
+p.Thr344Leu	missense_variant	1		Y	3	STRUCT-neutral		344
+p.Trp328Ser	missense_variant	1		Y	3	STRUCT-neutral		328
+p.Tyr638Cys	missense_variant	1		Y	3	STRUCT-R	R3	638
+p.Val319fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+c.-187G>A	upstream_gene_variant	1		Y	3	NA		
+c.-202T>C	upstream_gene_variant	1		Y	3	NA		
+c.-249T>C	upstream_gene_variant	1		Y	3	NA		
+c.-336C>T	upstream_gene_variant	1		Y	3	NA		
+c.-339T>C	upstream_gene_variant	1		Y	3	NA		
+c.129C>T	synonymous_variant	1		Y	4	NA		
+c.1317G>A	synonymous_variant	1		Y	4	NA		
+c.1593G>A	synonymous_variant	1		Y	4	NA		
+c.1617C>T	synonymous_variant	1		Y	4	NA		
+c.162C>A	synonymous_variant	1		Y	4	NA		
+c.330C>G	synonymous_variant	1		N		NA		
+p.Ala61Pro	missense_variant	1		Y	3	STRUCT-neutral		61
+p.Asn637Tyr	missense_variant	1		Y	3	STRUCT-neutral		637
+p.Asp695fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Glu318Ala	missense_variant	1		Y	3	STRUCT-R	R3	318
+p.Glu651fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Gly111Cys	missense_variant	1		Y	3	STRUCT-neutral		111
+p.Leu631Gln	missense_variant	1		Y	3	STRUCT-neutral		631
+p.Leu641_Gly644del	inframe_deletion	1		Y	3	NA		
+p.Met225Ile	missense_variant	1		Y	3	STRUCT-neutral		225
+p.Phe483Ser	missense_variant	1		Y	3	STRUCT-R	R3	483
+p.Pro365Thr	missense_variant	1		Y	3	STRUCT-neutral		365
+p.Ser175*	stop_gained	1		Y	2	STRUCT-R	R0-LoF	
+p.Thr11Ala	missense_variant	1		Y	3	NA	no-structure	11
+c.-244C>A	upstream_gene_variant	1		N		NA		
+c.-482T>A	upstream_gene_variant	1		Y	3	NA		
+c.-510T>C	upstream_gene_variant	1		Y	3	NA		
+c.-59C>T	upstream_gene_variant	1		Y	3	NA		
+c.1092C>T	synonymous_variant	1		N		NA		
+c.1836C>T	synonymous_variant	1		Y	4	NA		
+c.885G>A	synonymous_variant	1		Y	4	NA		
+p.Ala550Pro	missense_variant	1		Y	3	STRUCT-R	R3	550
+p.Arg253Pro	missense_variant	1		Y	3	STRUCT-neutral		253
+p.Arg489Ser	missense_variant	1		Y	3	STRUCT-R	R3	489
+p.Arg736Lys	missense_variant	1		Y	3	STRUCT-neutral		736
+p.Asp207Asn	missense_variant	1		Y	3	STRUCT-neutral		207
+p.Asp259Ala	missense_variant	1		Y	3	STRUCT-neutral		259
+p.Asp381fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Asp675His	missense_variant	1		Y	3	STRUCT-neutral		675
+p.Glu289Gly	missense_variant	1		Y	3	STRUCT-R	R4	289
+p.Gly120Asp	missense_variant	1		Y	3	STRUCT-neutral		120
+p.Ile563fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Lys153Asn	missense_variant	1		Y	3	STRUCT-neutral		153
+p.Lys719Gln	missense_variant	1		Y	3	STRUCT-neutral		719
+p.Met176Ile	missense_variant	1		Y	3	STRUCT-neutral		176
+p.Met84Thr	missense_variant	1		Y	3	STRUCT-neutral		84
+p.Pro150Ser	missense_variant	1		Y	3	STRUCT-neutral		150
+p.Pro232Leu	missense_variant	1		Y	3	STRUCT-R	R2	232
+p.Pro325Ser	missense_variant	1		Y	3	STRUCT-R	R3	325
+p.Ser211Thr	missense_variant	1		N		STRUCT-neutral		211
+p.Ser652Ala	missense_variant	1		Y	3	STRUCT-neutral		652
+p.Thr322Pro	missense_variant	1		Y	3	STRUCT-R	R3	322
+p.Thr579Ala	missense_variant	1		Y	3	STRUCT-neutral		579
+p.Tyr155*	stop_gained	1		Y	2	STRUCT-R	R0-LoF	
+p.Val581Met	missense_variant	1		Y	3	STRUCT-neutral		581
+c.-88G>A	upstream_gene_variant	1		N		NA		
+c.1050T>C	synonymous_variant	1		N		NA		
+c.1140T>G	synonymous_variant	1		Y	4	NA		
+c.1434G>A	synonymous_variant	1		Y	4	NA		
+c.1959G>A	synonymous_variant	1		Y	4	NA		
+c.648G>A	synonymous_variant	1		Y	4	NA		
+c.723C>A	synonymous_variant	1		Y	4	NA		
+c.729C>A	synonymous_variant	1		Y	4	NA		
+p.Ala476Gly	missense_variant	1		Y	3	STRUCT-neutral		476
+p.Ala716Thr	missense_variant	1		Y	3	STRUCT-neutral		716
+p.Asn238Thr	missense_variant	1		Y	3	STRUCT-neutral		238
+p.Asn596Lys	missense_variant	1		Y	3	STRUCT-R	R3	596
+p.Asp406Glu	missense_variant	1		N		STRUCT-neutral		406
+p.Glu31Ala	missense_variant	1		Y	3	STRUCT-R	R4	31
+p.Gly111Asp	missense_variant	1		Y	3	STRUCT-R	R3	111
+p.Leu173fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Met126Val	missense_variant	1		Y	3	STRUCT-neutral		126
+p.Pro325fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Ser331Thr	missense_variant	1		N		STRUCT-neutral		331
+p.Ser539fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Ser692Arg	missense_variant	1		Y	3	STRUCT-R	R3	692
+p.Trp91*	stop_gained	1		N		STRUCT-R	R0-LoF	
+p.Trp91Gly	missense_variant	1		Y	3	STRUCT-R	R3	91
+p.Tyr426His	missense_variant	1		Y	3	STRUCT-R	R3	426
+p.Val196Ile	missense_variant	1		Y	3	STRUCT-neutral		196
+c.-121T>C	upstream_gene_variant	1		Y	3	NA		
+c.-201G>A	upstream_gene_variant	1		Y	3	NA		
+c.-261C>G	upstream_gene_variant	1		Y	3	NA		
+c.-28G>A	upstream_gene_variant	1		Y	3	NA		
+c.-398A>C	upstream_gene_variant	1		Y	3	NA		
+c.-519C>T	upstream_gene_variant	1		Y	3	NA		
+c.1029G>A	synonymous_variant	1		Y	4	NA		
+c.1329T>G	synonymous_variant	1		Y	4	NA		
+c.975G>A	synonymous_variant	1		Y	4	NA		
+p.Ala162Gly	missense_variant	1		Y	3	STRUCT-neutral		162
+p.Ala256Val	missense_variant	1		Y	3	STRUCT-neutral		256
+p.Ala60Thr	missense_variant	1		Y	3	STRUCT-neutral		60
+p.Ala61Ser	missense_variant	1		Y	3	STRUCT-neutral		61
+p.Ala75Val	missense_variant	1		Y	3	STRUCT-neutral		75
+p.Arg595Gln	missense_variant	1		Y	3	STRUCT-R	R3	595
+p.Asp142Ala	missense_variant	1		Y	3	STRUCT-R	R3	142
+p.Asp406Gly	missense_variant	1		Y	3	STRUCT-neutral		406
+p.Asp573Asn	missense_variant	1		Y	3	STRUCT-R	R3	573
+p.Cys171*	stop_gained	1		Y	2	STRUCT-R	R0-LoF	
+p.Gly206Asp	missense_variant	1		Y	3	STRUCT-R	R3	206
+p.Gly269Ser	missense_variant	1		Y	3	STRUCT-R	R2	269
+p.Gly34Arg	missense_variant	1		Y	3	STRUCT-neutral		34
+p.Gly490Ala	missense_variant	1		Y	3	STRUCT-neutral		490
+p.Leu546Phe	missense_variant	1		N		STRUCT-neutral		546
+p.Leu696Gln	missense_variant	1		Y	3	STRUCT-R	R4	696
+p.Lys681Thr	missense_variant	1		Y	3	STRUCT-neutral		681
+p.Ser87Leu	missense_variant	1		Y	3	STRUCT-neutral		87
+p.Thr306fs	frameshift	1		N		STRUCT-R	R0-LoF	
+p.Thr520Ala	missense_variant	1		Y	3	STRUCT-neutral		520
+p.Thr579Ser	missense_variant	1		Y	3	STRUCT-neutral		579
+p.Trp689Cys	missense_variant	1		Y	3	STRUCT-R	R3	689
+p.Tyr353Phe	missense_variant	1		N		STRUCT-neutral		353
+p.Tyr597Ser	missense_variant	1		Y	3	STRUCT-R	R3	597
+c.-486C>T	upstream_gene_variant	1		Y	3	NA		
+c.-531G>C	upstream_gene_variant	1		Y	3	NA		
+c.1083C>G	synonymous_variant	1		N		NA		
+c.1482T>C	synonymous_variant	1		Y	4	NA		
+c.282C>T	synonymous_variant	1		Y	4	NA		
+c.366C>A	synonymous_variant	1		Y	4	NA		
+c.684C>T	synonymous_variant	1		Y	4	NA		
+c.84C>T	synonymous_variant	1		Y	4	NA		
+c.999C>T	synonymous_variant	1		Y	4	NA		
+p.Arg249Leu	missense_variant	1		Y	3	STRUCT-neutral		249
+p.Asp580Glu	missense_variant	1		Y	3	STRUCT-neutral		580
+p.Asp729fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Gln88Pro	missense_variant	1		Y	3	STRUCT-neutral		88
+p.Gly34Glu	missense_variant	1		Y	3	STRUCT-neutral		34
+p.Gly699Val	missense_variant	1		Y	3	STRUCT-R	R4	699
+p.Leu76Pro	missense_variant	1		Y	3	STRUCT-R	R3	76
+p.Lys157fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Lys213Asn	missense_variant	1		N		STRUCT-neutral		213
+p.Met296Ile	missense_variant	1		Y	3	STRUCT-neutral		296
+p.Met420Ile	missense_variant	1		Y	3	STRUCT-neutral		420
+p.Phe272fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Pro100Ser	missense_variant	1		N		STRUCT-R	R2;R3	100
+p.Ser383Pro	missense_variant	1		Y	3	STRUCT-R	R3	383
+p.Ser457Ile	missense_variant	1		Y	3	STRUCT-neutral		457
+p.Thr344Met	missense_variant	1		Y	3	STRUCT-neutral		344
+p.Thr654Ser	missense_variant	1		Y	3	STRUCT-neutral		654
+p.Trp39*	stop_gained	1		Y	2	STRUCT-R	R0-LoF	
+p.Trp90Cys	missense_variant	1		Y	3	STRUCT-R	R4	90
+p.Tyr64Ser	missense_variant	1		Y	3	STRUCT-R	R3	64
+p.Tyr98His	missense_variant	1		N		STRUCT-R	R3	98
+p.Val507Ile	missense_variant	1		Y	3	STRUCT-neutral		507
+p.Val626Glu	missense_variant	1		Y	3	STRUCT-R	R3	626
+c.-289G>A	upstream_gene_variant	1		Y	3	NA		
+c.-360T>C	upstream_gene_variant	1		N		NA		
+c.-372C>T	upstream_gene_variant	1		Y	3	NA		
+c.-373A>C	upstream_gene_variant	1		Y	3	NA		
+c.-399C>T	upstream_gene_variant	1		Y	3	NA		
+c.-460G>T	upstream_gene_variant	1		Y	3	NA		
+c.-521_-488delGTCTTGACTGATTCCAGAAAAGGGAGTCATATTG	upstream_gene_variant	1		Y	3	NA		
+c.-80T>G	upstream_gene_variant	1		Y	3	NA		
+c.1200C>T	synonymous_variant	1		Y	4	NA		
+c.1218C>T	synonymous_variant	1		Y	4	NA		
+c.1284G>C	synonymous_variant	1		Y	4	NA		
+c.1359C>T	synonymous_variant	1		Y	4	NA		
+c.1869G>A	synonymous_variant	1		Y	4	NA		
+c.876G>A	synonymous_variant	1		N		NA		
+p.Arg595*	stop_gained	1		N		STRUCT-R	R0-LoF	
+p.Arg736Ser	missense_variant	1		Y	3	STRUCT-R	R3	736
+p.Asn35Thr	missense_variant	1		Y	3	STRUCT-neutral		35
+p.Asn529His	missense_variant	1		Y	3	STRUCT-R	R3	529
+p.Asp513fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Gln439Glu	missense_variant	1		N		STRUCT-R	R3	439
+p.Glu454Lys	missense_variant	1		N		STRUCT-R	R3	454
+p.Glu582fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Gly570Ser	missense_variant	1		Y	3	STRUCT-neutral		570
+p.Gly601fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.His25fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Leu164Arg	missense_variant	1		Y	3	STRUCT-R	R3	164
+p.Lys46Asn	missense_variant	1		Y	3	STRUCT-neutral		46
+p.Pro642fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Ser486Asn	missense_variant	1		Y	3	STRUCT-neutral		486
+p.Thr380del	inframe_deletion	1		Y	3	NA		
+p.Tyr337Asp	missense_variant	1		Y	3	STRUCT-R	R3	337
+p.Val445Ile	missense_variant	1		Y	3	STRUCT-neutral		445
+c.-292A>G	upstream_gene_variant	1		Y	3	NA		
+c.-397G>T	upstream_gene_variant	1		Y	3	NA		
+c.-437C>T	upstream_gene_variant	1		Y	3	NA		
+c.-483G>A	upstream_gene_variant	1		Y	3	NA		
+c.-79C>T	upstream_gene_variant	1		Y	3	NA		
+c.-94T>C	upstream_gene_variant	1		N		NA		
+c.1044T>C	synonymous_variant	1		N		NA		
+c.1062C>T	synonymous_variant	1		Y	4	NA		
+c.1761G>A	synonymous_variant	1		Y	4	NA		
+c.1848G>C	synonymous_variant	1		Y	4	NA		
+c.912T>C	synonymous_variant	1		N		NA		
+p.Ala479Glu	missense_variant	1		Y	3	STRUCT-R	R3	479
+p.Ala480dup	inframe_insertion	1		Y	3	NA		
+p.Ala716Gly	missense_variant	1		Y	3	STRUCT-neutral		716
+p.Arg104Leu	missense_variant	1		Y	3	STRUCT-R	R1;R2	104
+p.Arg128Gly	missense_variant	1		Y	3	STRUCT-R	R3;R4	128
+p.Arg249Pro	missense_variant	1		Y	3	STRUCT-neutral		249
+p.Asn236Lys	missense_variant	1		Y	3	STRUCT-neutral		236
+p.Asn535Thr	missense_variant	1		Y	3	STRUCT-neutral		535
+p.Asp56Asn	missense_variant	1		Y	3	STRUCT-neutral		56
+p.Asp729Gly	missense_variant	1		Y	3	STRUCT-R	R3	729
+p.Gln578Arg	missense_variant	1		Y	3	STRUCT-neutral		578
+p.Gly125Ala	missense_variant	1		Y	3	STRUCT-neutral		125
+p.Gly269Asp	missense_variant	1		Y	3	STRUCT-R	R2	269
+p.Gly279fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Gly451Asp	missense_variant	1		Y	3	STRUCT-neutral		451
+p.Lys46fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Lys590Gln	missense_variant	1		Y	3	STRUCT-neutral		590
+p.Met624fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Phe62Ser	missense_variant	1		Y	3	STRUCT-neutral		62
+p.Pro232Arg	missense_variant	1		Y	3	STRUCT-R	R2	232
+p.Pro286Leu	missense_variant	1		Y	3	STRUCT-neutral		286
+p.Ser650Phe	missense_variant	1		Y	3	STRUCT-neutral		650
+p.Thr11Ser	missense_variant	1		Y	3	NA	no-structure	11
+p.Thr520Asn	missense_variant	1		Y	3	STRUCT-neutral		520
+p.Thr654Asn	missense_variant	1		Y	3	STRUCT-neutral		654
+p.Val319Asp	missense_variant	1		Y	3	STRUCT-R	R3	319
+c.-355G>A	upstream_gene_variant	1		Y	3	NA		
+c.-411C>T	upstream_gene_variant	1		Y	3	NA		
+c.-423G>A	upstream_gene_variant	1		Y	3	NA		
+c.-493A>G	upstream_gene_variant	1		Y	3	NA		
+c.-92C>G	upstream_gene_variant	1		Y	3	NA		
+c.-93A>G	upstream_gene_variant	1		Y	3	NA		
+c.1116G>A	synonymous_variant	1		Y	4	NA		
+c.1878G>T	synonymous_variant	1		Y	4	NA		
+c.654C>T	synonymous_variant	1		Y	4	NA		
+c.702G>A	synonymous_variant	1		Y	4	NA		
+p.Ala109Pro	missense_variant	1		Y	3	STRUCT-R	R3	109
+p.Ala492Val	missense_variant	1		Y	3	STRUCT-neutral		492
+p.Ala60Gly	missense_variant	1		Y	3	STRUCT-neutral		60
+p.Arg104Trp	missense_variant	1		Y	3	STRUCT-R	R1;R2	104
+p.Arg254Ser	missense_variant	1		Y	3	STRUCT-R	R3	254
+p.Asn602Asp	missense_variant	1		N		STRUCT-neutral		602
+p.Ile80Thr	missense_variant	1		Y	3	STRUCT-neutral		80
+p.Leu458Ser	missense_variant	1		Y	3	STRUCT-neutral		458
+p.Leu627Pro	missense_variant	1		Y	3	STRUCT-R	R3	627
+p.Met225Val	missense_variant	1		Y	3	STRUCT-neutral		225
+p.Met84Ile	missense_variant	1		Y	3	STRUCT-neutral		84
+p.Phe408Leu	missense_variant	1		Y	3	STRUCT-R	R2	408
+p.Pro566fs	frameshift	1		N		STRUCT-R	R0-LoF	
+p.Ser383Trp	missense_variant	1		Y	3	STRUCT-R	R3	383
+p.Trp328Tyr	missense_variant	1		Y	3	STRUCT-neutral		328
+p.Trp438Leu	missense_variant	1		N		STRUCT-neutral		438
+p.Val166fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Val196Ala	missense_variant	1		Y	3	STRUCT-neutral		196
+p.Val586fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+c.-118_-78delCTGTTGGACGAGGCGGAGGTCATCTACTGGGGTCTATGTCC	upstream_gene_variant	1		Y	3	NA		
+c.-205G>T	upstream_gene_variant	1		Y	3	NA		
+c.-207T>C	upstream_gene_variant	1		Y	3	NA		
+c.-304_-303dupCT	upstream_gene_variant	1		Y	3	NA		
+c.-342C>T	upstream_gene_variant	1		Y	3	NA		
+c.-382C>T	upstream_gene_variant	1		Y	3	NA		
+c.-504A>G	upstream_gene_variant	1		Y	3	NA		
+c.1107C>A	synonymous_variant	1		Y	4	NA		
+c.1173G>A	synonymous_variant	1		Y	4	NA		
+c.1263T>C	synonymous_variant	1		Y	4	NA		
+c.159C>G	synonymous_variant	1		Y	4	NA		
+c.1740C>T	synonymous_variant	1		Y	4	NA		
+c.453C>A	synonymous_variant	1		Y	4	NA		
+c.63C>T	synonymous_variant	1		Y	4	NA		
+c.999C>G	synonymous_variant	1		N		NA		
+p.Ala139Gly	missense_variant	1		N		STRUCT-neutral		139
+p.Asp387Gly	missense_variant	1		Y	3	STRUCT-R	R3	387
+p.Asp509Asn	missense_variant	1		Y	3	STRUCT-R	R3	509
+p.Asp56fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Gly712Val	missense_variant	1		Y	3	STRUCT-R	R4	712
+p.Gly99Glu	missense_variant	1		Y	3	STRUCT-R	R3	99
+p.Leu449Arg	missense_variant	1		Y	3	STRUCT-neutral		449
+p.Lys516Arg	missense_variant	1		Y	3	STRUCT-neutral		516
+p.Lys554Asn	missense_variant	1		Y	3	STRUCT-neutral		554
+p.Phe332Val	missense_variant	1		Y	3	STRUCT-neutral		332
+p.Pro29_Val30delinsLeu	inframe_deletion	1		Y	3	NA		
+p.Pro605Arg	missense_variant	1		Y	3	STRUCT-neutral		605
+p.Pro89Asp	missense_variant	1		N		STRUCT-neutral		89
+p.Thr322Lys	missense_variant	1		Y	3	STRUCT-R	R3	322
+p.Thr70del	inframe_deletion	1		N		NA		
+c.-141C>T	upstream_gene_variant	1		Y	3	NA		
+c.-479G>T	upstream_gene_variant	1		Y	3	NA		
+c.-54C>A	upstream_gene_variant	1		Y	3	NA		
+c.-62C>T	upstream_gene_variant	1		Y	3	NA		
+c.1008G>T	synonymous_variant	1		Y	4	NA		
+c.1692G>A	synonymous_variant	1		Y	4	NA		
+p.Ala291Asp	missense_variant	1		Y	3	STRUCT-R	R3	291
+p.Ala479Gly	missense_variant	1		Y	3	STRUCT-neutral		479
+p.Arg395Cys	missense_variant	1		N		STRUCT-neutral		395
+p.Asn236fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Asn35His	missense_variant	1		Y	3	STRUCT-neutral		35
+p.Gln88Glu	missense_variant	1		Y	3	STRUCT-neutral		88
+p.Glu402Ala	missense_variant	1		Y	3	STRUCT-neutral		402
+p.Gly156Ser	missense_variant	1		Y	3	STRUCT-neutral		156
+p.Gly338Asp	missense_variant	1		Y	3	STRUCT-neutral		338
+p.Gly635Ala	missense_variant	1		Y	3	STRUCT-neutral		635
+p.His561Arg	missense_variant	1		Y	3	STRUCT-neutral		561
+p.Leu159Pro	missense_variant	1		Y	3	STRUCT-R	R3	159
+p.Lys153Gln	missense_variant	1		Y	3	STRUCT-neutral		153
+p.Met257Thr	missense_variant	1		Y	3	STRUCT-neutral		257
+p.Pro422His	missense_variant	1		Y	3	STRUCT-neutral		422
+p.Ser331Gly	missense_variant	1		Y	3	STRUCT-neutral		331
+p.Ser481Ala	missense_variant	1		Y	3	STRUCT-neutral		481
+p.Thr306Ala	missense_variant	1		Y	3	STRUCT-neutral		306
+p.Tyr64Cys	missense_variant	1		Y	3	STRUCT-R	R3	64
+p.Val73Gly	missense_variant	1		Y	3	STRUCT-neutral		73
+p.Val83fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+c.-146T>C	upstream_gene_variant	1		Y	3	NA		
+c.-21C>A	upstream_gene_variant	1		Y	3	NA		
+c.-291C>G	upstream_gene_variant	1		Y	3	NA		
+c.-296C>T	upstream_gene_variant	1		Y	3	NA		
+c.-324G>A	upstream_gene_variant	1		Y	3	NA		
+c.-356T>G	upstream_gene_variant	1		Y	3	NA		
+c.-449C>T	upstream_gene_variant	1		Y	3	NA		
+c.1395G>C	synonymous_variant	1		Y	4	NA		
+c.531C>A	synonymous_variant	1		N		NA		
+p.Ala15Val	missense_variant	1		Y	3	NA	no-structure	15
+p.Ala256fs	frameshift	1		N		STRUCT-R	R0-LoF	
+p.Ala480Gln	missense_variant	1		Y	3	STRUCT-neutral		480
+p.Arg632Cys	missense_variant	1		Y	3	STRUCT-R	R3	632
+p.Asn18fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Gln50_Asn51insThr	inframe_insertion	1		Y	3	NA		
+p.Glu526Lys	missense_variant	1		Y	3	STRUCT-neutral		526
+p.Ile317Leu	missense_variant	1		N		STRUCT-R	R2	317
+p.Ser620Arg	missense_variant	1		Y	3	STRUCT-R	R4	620
+p.Ser684Arg	missense_variant	1		Y	3	STRUCT-neutral		684
+p.Thr9Lys	missense_variant	1		Y	3	NA	no-structure	9
+p.Tyr28*	stop_gained	1		Y	2	STRUCT-R	R0-LoF	
+p.Val386Leu	missense_variant	1		Y	3	STRUCT-neutral		386
+c.-109G>A	upstream_gene_variant	1		Y	3	NA		
+c.-3G>A	upstream_gene_variant	1		Y	3	NA		
+c.-425C>G	upstream_gene_variant	1		Y	3	NA		
+c.-479_-478delGT	upstream_gene_variant	1		Y	3	NA		
+c.-485T>G	upstream_gene_variant	1		Y	3	NA		
+c.840G>C	synonymous_variant	1		Y	4	NA		
+p.Ala202fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Ala424Gly	missense_variant	1		Y	3	STRUCT-neutral		424
+p.Asn133_Glu233delinsLys	inframe_deletion	1		Y	3	NA		
+p.Asn660Ala	missense_variant	1		Y	3	STRUCT-neutral		660
+p.Glu391Asp	missense_variant	1		Y	3	STRUCT-neutral		391
+p.Gly277Asp	missense_variant	1		Y	3	STRUCT-R	R3	277
+p.Gly307Arg	missense_variant	1		Y	3	STRUCT-R	R3	307
+p.His270Pro	missense_variant	1		Y	3	STRUCT-R	R1;R2	270
+p.Leu696fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Pro40Leu	missense_variant	1		Y	3	STRUCT-R	R4	40
+p.Thr324Asn	missense_variant	1		Y	3	STRUCT-neutral		324
+p.Tyr390dup	inframe_insertion	1		Y	3	NA		
+p.Val246Gly	missense_variant	1		Y	3	STRUCT-neutral		246
+p.Val626Ala	missense_variant	1		Y	3	STRUCT-neutral		626
+c.-121T>G	upstream_gene_variant	1		N		NA		
+c.-141C>A	upstream_gene_variant	1		Y	3	NA		
+c.-244C>T	upstream_gene_variant	1		Y	3	NA		
+c.-318C>T	upstream_gene_variant	1		Y	3	NA		
+c.-89G>A	upstream_gene_variant	1		Y	3	NA		
+c.1944G>A	synonymous_variant	1		Y	4	NA		
+c.1G>A	initiator_codon_variant	1		Y	4	STRUCT-R	R0-LoF	
+c.498T>C	synonymous_variant	1		N		NA		
+c.522A>G	synonymous_variant	1		N		NA		
+c.645T>C	synonymous_variant	1		N		NA		
+p.Arg187Trp	missense_variant	1		Y	3	STRUCT-R	R3	187
+p.Arg519His	missense_variant	1		Y	3	STRUCT-neutral		519
+p.Asp511Tyr	missense_variant	1		Y	3	STRUCT-neutral		511
+p.Asp663Gly	missense_variant	1		Y	3	STRUCT-neutral		663
+p.Asp94Tyr	missense_variant	1		Y	3	STRUCT-R	R2;R3	94
+p.Gln88*	stop_gained	1		Y	2	STRUCT-R	R0-LoF	
+p.Glu208fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Gly169Val	missense_variant	1		Y	3	STRUCT-neutral		169
+p.Leu598Phe	missense_variant	1		Y	3	STRUCT-neutral		598
+p.Lys488Asn	missense_variant	1		Y	3	STRUCT-neutral		488
+p.Lys600Gln	missense_variant	1		Y	3	STRUCT-neutral		600
+p.Tyr229His	missense_variant	1		N		STRUCT-R	R1;R2;R3	229
+p.Tyr353Cys	missense_variant	1		Y	3	STRUCT-R	R3	353
+p.Tyr390Cys	missense_variant	1		Y	3	STRUCT-R	R3	390
+c.-180C>T	upstream_gene_variant	1		Y	3	NA		
+c.-204T>G	upstream_gene_variant	1		Y	3	NA		
+c.-325C>T	upstream_gene_variant	1		Y	3	NA		
+c.-37T>G	upstream_gene_variant	1		Y	3	NA		
+c.-501delA	upstream_gene_variant	1		Y	3	NA		
+c.-505G>C	upstream_gene_variant	1		Y	3	NA		
+c.-91T>C	upstream_gene_variant	1		Y	3	NA		
+c.1272G>C	synonymous_variant	1		Y	4	NA		
+c.162C>T	synonymous_variant	1		Y	4	NA		
+c.2037G>A	synonymous_variant	1		Y	4	NA		
+c.2049C>G	synonymous_variant	1		Y	4	NA		
+c.339C>T	synonymous_variant	1		Y	4	NA		
+c.6C>T	synonymous_variant	1		Y	4	NA		
+c.831C>A	synonymous_variant	1		Y	4	NA		
+p.Ala727Thr	missense_variant	1		Y	3	STRUCT-neutral		727
+p.Asp381Asn	missense_variant	1		Y	3	STRUCT-R	R1;R3	381
+p.Asp735Glu	missense_variant	1		Y	3	STRUCT-neutral		735
+p.Gln36Glu	missense_variant	1		Y	3	STRUCT-neutral		36
+p.Glu195_Asn236del	inframe_deletion	1		Y	3	NA		
+p.Gly121Val	missense_variant	1		Y	3	STRUCT-neutral		121
+p.Gly495Ala	missense_variant	1		Y	3	STRUCT-neutral		495
+p.Ile115Thr	missense_variant	1		N		STRUCT-neutral		115
+p.Leu472Pro	missense_variant	1		Y	3	STRUCT-R	R3	472
+p.Phe567Ser	missense_variant	1		Y	3	STRUCT-R	R3	567
+p.Pro286Ala	missense_variant	1		Y	3	STRUCT-neutral		286
+p.Pro52Ser	missense_variant	1		Y	3	STRUCT-R	R4	52
+p.Thr376Lys	missense_variant	1		Y	3	STRUCT-R	R3	376
+p.Thr394fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Tyr413Phe	missense_variant	1		N		STRUCT-neutral		413
+p.Val151Ile	missense_variant	1		N		STRUCT-neutral		151
+p.Val473Phe	missense_variant	1		Y	3	STRUCT-neutral		473
+c.-338_-241delGCCCGACGTATCCCGGCAAGCCGTGTACGACGTGCTGCATGCCCTGACCGCCGCGGGCTTGGTGCGAAAGATCCAACCCTCGGGCTCCGTCGCGCGCT	upstream_gene_variant	1		Y	3	NA		
+c.1875G>A	synonymous_variant	1		Y	4	NA		
+c.2086C>T	synonymous_variant	1		Y	4	NA		
+c.2148G>A	synonymous_variant	1		Y	4	NA		
+c.360C>A	synonymous_variant	1		Y	4	NA		
+c.669G>C	synonymous_variant	1		N		NA		
+c.933C>T	synonymous_variant	1		N		NA		
+c.945C>T	synonymous_variant	1		Y	4	NA		
+p.Ala281Thr	missense_variant	1		Y	3	STRUCT-neutral		281
+p.Ala558Arg	missense_variant	1		Y	3	STRUCT-neutral		558
+p.Asn562Asp	missense_variant	1		N		STRUCT-neutral		562
+p.Asp656Gly	missense_variant	1		Y	3	STRUCT-neutral		656
+p.Gly124Asp	missense_variant	1		Y	3	STRUCT-R	R3	124
+p.Gly299Ala	missense_variant	1		Y	3	STRUCT-neutral		299
+p.Gly548Arg	missense_variant	1		Y	3	STRUCT-R	R3	548
+p.Ile335Thr	missense_variant	1		N		STRUCT-neutral		335
+p.Ile455Leu	missense_variant	1		Y	3	STRUCT-neutral		455
+p.Leu734Val	missense_variant	1		Y	3	STRUCT-neutral		734
+p.Pro569fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Ser331Ile	missense_variant	1		Y	3	STRUCT-neutral		331
+p.Ser527Leu	missense_variant	1		Y	3	STRUCT-neutral		527
+p.Trp412Tyr	missense_variant	1		Y	3	STRUCT-R	R2	412
+p.Val196Gly	missense_variant	1		Y	3	STRUCT-neutral		196
+c.-104G>C	upstream_gene_variant	1		N		NA		
+c.-116G>C	upstream_gene_variant	1		Y	3	NA		
+c.-168G>A	upstream_gene_variant	1		Y	3	NA		
+c.-173C>A	upstream_gene_variant	1		Y	3	NA		
+c.-183T>C	upstream_gene_variant	1		N		NA		
+c.-243_-242delGC	upstream_gene_variant	1		Y	3	NA		
+c.-89G>C	upstream_gene_variant	1		Y	3	NA		
+c.-9A>G	upstream_gene_variant	1		N		NA		
+c.1224C>T	synonymous_variant	1		Y	4	NA		
+c.1326C>T	synonymous_variant	1		Y	4	NA		
+c.237C>T	synonymous_variant	1		Y	4	NA		
+c.27A>G	synonymous_variant	1		Y	4	NA		
+c.294C>T	synonymous_variant	1		Y	4	NA		
+c.579C>T	synonymous_variant	1		Y	4	NA		
+p.Arg104Pro	missense_variant	1		Y	3	STRUCT-R	R1;R2	104
+p.Arg249Gly	missense_variant	1		Y	3	STRUCT-neutral		249
+p.Arg498His	missense_variant	1		Y	3	STRUCT-neutral		498
+p.Asn493Gly	missense_variant	1		Y	3	STRUCT-neutral		493
+p.Cys549Ser	missense_variant	1		Y	3	STRUCT-neutral		549
+p.Gln127*	stop_gained	1		N		STRUCT-R	R0-LoF	
+p.Gln127Arg	missense_variant	1		Y	3	STRUCT-R	R3	127
+p.Gln4Tyr	missense_variant	1		Y	3	NA	no-structure	4
+p.Glu522Lys	missense_variant	1		Y	3	STRUCT-neutral		522
+p.Glu553Lys	missense_variant	1		Y	3	STRUCT-R	R3	553
+p.Gly206Arg	missense_variant	1		Y	3	STRUCT-R	R3	206
+p.Gly33Ala	missense_variant	1		Y	3	STRUCT-neutral		33
+p.Ile416fs	frameshift	1		N		STRUCT-R	R0-LoF	
+p.Ile497Val	missense_variant	1		Y	3	STRUCT-neutral		497
+p.Lys154dup	inframe_insertion	1		Y	3	NA		
+p.Met296Val	missense_variant	1		Y	3	STRUCT-neutral		296
+p.Pro325Thr	missense_variant	1		Y	3	STRUCT-R	R3	325
+p.Ser460Asn	missense_variant	1		Y	3	STRUCT-neutral		460
+p.Trp505fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Trp90*	stop_gained	1		Y	2	STRUCT-R	R0-LoF	
+c.-152A>C	upstream_gene_variant	1		Y	3	NA		
+c.-153C>A	upstream_gene_variant	1		Y	3	NA		
+c.-268A>G	upstream_gene_variant	1		Y	3	NA		
+c.-284G>A	upstream_gene_variant	1		Y	3	NA		
+c.-352G>A	upstream_gene_variant	1		Y	3	NA		
+c.1941C>T	synonymous_variant	1		Y	4	NA		
+c.2157G>A	synonymous_variant	1		Y	4	NA		
+c.228G>C	synonymous_variant	1		Y	4	NA		
+c.297G>T	synonymous_variant	1		Y	4	NA		
+c.642G>T	synonymous_variant	1		N		NA		
+c.837C>A	synonymous_variant	1		Y	4	NA		
+c.858C>T	synonymous_variant	1		Y	4	NA		
+p.Ala556Glu	missense_variant	1		Y	3	STRUCT-R	R3	556
+p.Asp357His	missense_variant	1		Y	3	STRUCT-neutral		357
+p.Asp723Ala	missense_variant	1		Y	3	STRUCT-R	R4	723
+p.Gln525Ala	missense_variant	1		Y	3	STRUCT-neutral		525
+p.Gln578fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Glu623Gly	missense_variant	1		Y	3	STRUCT-neutral		623
+p.Gly305Ser	missense_variant	1		Y	3	STRUCT-neutral		305
+p.Gly491Ala	missense_variant	1		Y	3	STRUCT-neutral		491
+p.Leu298Phe	missense_variant	1		Y	3	STRUCT-neutral		298
+p.Pro347Ser	missense_variant	1		Y	3	STRUCT-neutral		347
+p.Pro429fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Ser17fs	frameshift	1		N		STRUCT-R	R0-LoF	
+p.Ser474Gln	missense_variant	1		Y	3	STRUCT-neutral		474
+p.Ser539Phe	missense_variant	1		N		STRUCT-R	R3	539
+p.Trp505Ser	missense_variant	1		Y	3	STRUCT-R	R3	505
+p.Tyr678Cys	missense_variant	1		Y	3	STRUCT-R	R3;R4	678
+p.Val284Ile	missense_variant	1		Y	3	STRUCT-neutral		284
+c.-210A>C	upstream_gene_variant	1		Y	3	NA		
+c.-287C>T	upstream_gene_variant	1		Y	3	NA		
+c.-459C>A	upstream_gene_variant	1		Y	3	NA		
+c.-45A>G	upstream_gene_variant	1		Y	3	NA		
+c.-507C>T	upstream_gene_variant	1		Y	3	NA		
+c.-93A>C	upstream_gene_variant	1		Y	3	NA		
+c.1227C>T	synonymous_variant	1		Y	4	NA		
+c.138G>A	synonymous_variant	1		Y	4	NA		
+c.183G>A	synonymous_variant	1		Y	4	NA		
+c.261G>A	synonymous_variant	1		Y	4	NA		
+c.543C>T	synonymous_variant	1		Y	4	NA		
+c.717G>A	synonymous_variant	1		N		NA		
+p.Arg496fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Asp189Tyr	missense_variant	1		Y	3	STRUCT-R	R3	189
+p.Asp240fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Asp259Glu	missense_variant	1		Y	3	STRUCT-neutral		259
+p.Asp381His	missense_variant	1		Y	3	STRUCT-R	R1;R3	381
+p.Asp592Asn	missense_variant	1		N		STRUCT-R	R3	592
+p.Asp729Glu	missense_variant	1		Y	3	STRUCT-neutral		729
+p.Asp735Asn	missense_variant	1		Y	3	STRUCT-R	R3	735
+p.Glu208Ala	missense_variant	1		Y	3	STRUCT-R	R4	208
+p.Glu233_Pro239del	inframe_deletion	1		Y	3	NA		
+p.Glu318Gly	missense_variant	1		N		STRUCT-R	R3	318
+p.Glu407Lys	missense_variant	1		Y	3	STRUCT-R	R3	407
+p.Glu623Ala	missense_variant	1		Y	3	STRUCT-neutral		623
+p.Gly186Asp	missense_variant	1		Y	3	STRUCT-R	R3	186
+p.Gly273Cys	missense_variant	1		Y	3	STRUCT-R	R2	273
+p.Leu333Phe	missense_variant	1		Y	3	STRUCT-neutral		333
+p.Lys557fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Met377Thr	missense_variant	1		Y	3	STRUCT-neutral		377
+p.Pro401Leu	missense_variant	1		Y	3	STRUCT-neutral		401
+p.Ser671*	stop_gained	1		Y	2	STRUCT-R	R0-LoF	
+p.Trp341Gly	missense_variant	1		Y	3	STRUCT-R	R3	341
+p.Trp728*	stop_gained	1		Y	2	STRUCT-R	R0-LoF	
+c.-102A>G	upstream_gene_variant	1		Y	3	NA		
+c.-198G>C	upstream_gene_variant	1		Y	3	NA		
+c.-221C>G	upstream_gene_variant	1		Y	3	NA		
+c.-231G>C	upstream_gene_variant	1		Y	3	NA		
+c.-2_-1insAATGC	upstream_gene_variant	1		Y	3	NA		
+c.-332delC	upstream_gene_variant	1		Y	3	NA		
+c.-36C>T	upstream_gene_variant	1		Y	3	NA		
+c.-407C>T	upstream_gene_variant	1		Y	3	NA		
+c.-497A>C	upstream_gene_variant	1		Y	3	NA		
+c.1047C>G	synonymous_variant	1		N		NA		
+c.1095G>C	synonymous_variant	1		N		NA		
+c.1125G>T	synonymous_variant	1		Y	4	NA		
+c.1419T>G	synonymous_variant	1		Y	4	NA		
+c.1587C>T	synonymous_variant	1		Y	4	NA		
+c.1977G>C	synonymous_variant	1		N		NA		
+c.207G>T	synonymous_variant	1		Y	4	NA		
+c.915C>T	synonymous_variant	1		Y	4	NA		
+c.927T>C	synonymous_variant	1		N		NA		
+c.966G>C	synonymous_variant	1		Y	4	NA		
+p.Ala110Pro	missense_variant	1		Y	3	STRUCT-R	R3	110
+p.Ala122Thr	missense_variant	1		Y	3	STRUCT-neutral		122
+p.Ala532Pro	missense_variant	1		Y	3	STRUCT-R	R3	532
+p.Arg78Pro	missense_variant	1		Y	3	STRUCT-neutral		78
+p.Asn133Thr	missense_variant	1		Y	3	STRUCT-neutral		133
+p.Asp142Cys	missense_variant	1		Y	3	STRUCT-R	R3	142
+p.Asp406Ala	missense_variant	1		Y	3	STRUCT-neutral		406
+p.Asp513_Leu514insHis	inframe_insertion	1		Y	3	NA		
+p.Glu523Asp	missense_variant	1		Y	3	STRUCT-neutral		523
+p.Gly369fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Gly560Arg	missense_variant	1		Y	3	STRUCT-neutral		560
+p.His447Arg	missense_variant	1		Y	3	STRUCT-neutral		447
+p.Ile666Met	missense_variant	1		Y	3	STRUCT-neutral		666
+p.Leu147Arg	missense_variant	1		Y	3	STRUCT-R	R3	147
+p.Leu427Phe	missense_variant	1		Y	3	STRUCT-neutral		427
+p.Lys46Glu	missense_variant	1		Y	3	STRUCT-neutral		46
+p.Pro2Ser	missense_variant	1		Y	3	NA	no-structure	2
+p.Pro6fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Trp161*	stop_gained	1		Y	2	STRUCT-R	R0-LoF	
+p.Trp161Gln	missense_variant	1		Y	3	STRUCT-R	R3;R4	161
+p.Tyr353_Thr354insAsn	inframe_insertion	1		Y	3	NA		
+p.Val442Ala	missense_variant	1		Y	3	STRUCT-neutral		442
+p.Val710Ile	missense_variant	1		Y	3	STRUCT-neutral		710
+c.-120T>C	upstream_gene_variant	1		Y	3	NA		
+c.-180C>G	upstream_gene_variant	1		Y	3	NA		
+c.-258C>A	upstream_gene_variant	1		Y	3	NA		
+c.-357G>A	upstream_gene_variant	1		Y	3	NA		
+c.-363T>A	upstream_gene_variant	1		Y	3	NA		
+c.-428_-414delGACCCGACCGCGCGT	upstream_gene_variant	1		Y	3	NA		
+c.-434G>A	upstream_gene_variant	1		Y	3	NA		
+c.-99T>C	upstream_gene_variant	1		Y	3	NA		
+c.459G>A	synonymous_variant	1		N		NA		
+c.646C>T	synonymous_variant	1		Y	4	NA		
+p.Arg496Leu	missense_variant	1		Y	3	STRUCT-R	R3	496
+p.Gln439Tyr	missense_variant	1		Y	3	STRUCT-neutral		439
+p.Gly305Cys	missense_variant	1		Y	3	STRUCT-neutral		305
+p.His108Arg	missense_variant	1		Y	3	STRUCT-R	R1	108
+p.Leu616Ser	missense_variant	1		Y	3	STRUCT-neutral		616
+p.Phe183Ser	missense_variant	1		Y	3	STRUCT-R	R3	183
+p.Pro288Leu	missense_variant	1		Y	3	STRUCT-R	R3	288
+p.Thr112Ser	missense_variant	1		Y	3	STRUCT-neutral		112
+p.Thr326Met	missense_variant	1		Y	3	STRUCT-neutral		326
+p.Trp438Cys	missense_variant	1		Y	3	STRUCT-R	R3	438
+p.Val23_Val30del	inframe_deletion	1		Y	3	NA		
+p.Val267Ala	missense_variant	1		Y	3	STRUCT-neutral		267
+p.Val731Met	missense_variant	1		Y	3	STRUCT-neutral		731
+c.-212T>C	upstream_gene_variant	1		Y	3	NA		
+c.-343dupG	upstream_gene_variant	1		Y	3	NA		
+c.-379G>A	upstream_gene_variant	1		Y	3	NA		
+c.-487T>C	upstream_gene_variant	1		Y	3	NA		
+c.-7G>A	upstream_gene_variant	1		Y	3	NA		
+c.1530C>G	synonymous_variant	1		Y	4	NA		
+c.1770G>A	synonymous_variant	1		Y	4	NA		
+p.Ala541Val	missense_variant	1		Y	3	STRUCT-neutral		541
+p.Arg498Ser	missense_variant	1		Y	3	STRUCT-neutral		498
+p.Asp381Gly	missense_variant	1		Y	3	STRUCT-R	R1;R3	381
+p.Asp729Asn	missense_variant	1		Y	3	STRUCT-R	R3	729
+p.Asp735Tyr	missense_variant	1		Y	3	STRUCT-R	R3	735
+p.Glu233Gln	missense_variant	1		Y	3	STRUCT-neutral		233
+p.Gly234Glu	missense_variant	1		Y	3	STRUCT-R	R3	234
+p.Gly428Glu	missense_variant	1		Y	3	STRUCT-neutral		428
+p.Leu265Arg	missense_variant	1		Y	3	STRUCT-R	R2;R3	265
+p.Leu598Pro	missense_variant	1		N		STRUCT-neutral		598
+p.Lys143Gln	missense_variant	1		Y	3	STRUCT-R	R3	143
+p.Ser650fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Thr326Pro	missense_variant	1		Y	3	STRUCT-neutral		326
+p.Thr568His	missense_variant	1		Y	3	STRUCT-neutral		568
+p.Trp728Tyr	missense_variant	1		Y	3	STRUCT-neutral		728
+p.Tyr413*	stop_gained	1		Y	2	STRUCT-R	R0-LoF	
+p.Val151_Tyr155delinsAsp	inframe_deletion	1		Y	3	NA		
+c.-112G>A	upstream_gene_variant	1		Y	3	NA		
+c.-126A>C	upstream_gene_variant	1		Y	3	NA		
+c.-428G>A	upstream_gene_variant	1		Y	3	NA		
+c.-458C>T	upstream_gene_variant	1		Y	3	NA		
+c.1155G>A	synonymous_variant	1		Y	4	NA		
+c.1266C>T	synonymous_variant	1		Y	4	NA		
+c.1530C>A	synonymous_variant	1		Y	4	NA		
+c.1542G>C	synonymous_variant	1		Y	4	NA		
+c.369G>A	synonymous_variant	1		Y	4	NA		
+c.60T>C	synonymous_variant	1		Y	4	NA		
+p.Ala550Thr	missense_variant	1		Y	3	STRUCT-neutral		550
+p.Arg571Leu	missense_variant	1		Y	3	STRUCT-R	R3	571
+p.Asp329Ala	missense_variant	1		Y	3	STRUCT-neutral		329
+p.Asp440Glu	missense_variant	1		Y	3	STRUCT-neutral		440
+p.Gln127Leu	missense_variant	1		N		STRUCT-neutral		127
+p.Glu522Gln	missense_variant	1		Y	3	STRUCT-neutral		522
+p.Glu81Ala	missense_variant	1		Y	3	STRUCT-neutral		81
+p.Gly268fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Gly629Asp	missense_variant	1		Y	3	STRUCT-R	R3	629
+p.Leu220Pro	missense_variant	1		Y	3	STRUCT-R	R3	220
+p.Leu398Arg	missense_variant	1		Y	3	STRUCT-neutral		398
+p.Lys179fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Pro286His	missense_variant	1		Y	3	STRUCT-neutral		286
+p.Pro288_Glu289del	inframe_deletion	1		Y	3	NA		
+p.Thr625Pro	missense_variant	1		Y	3	STRUCT-R	R3	625
+p.Thr654Ala	missense_variant	1		Y	3	STRUCT-neutral		654
+p.Thr77Arg	missense_variant	1		Y	3	STRUCT-neutral		77
+p.Trp351Leu	missense_variant	1		Y	3	STRUCT-neutral		351
+p.Trp689*	stop_gained	1		Y	2	STRUCT-R	R0-LoF	
+p.Tyr337His	missense_variant	1		N		STRUCT-R	R3	337
+p.Val628Leu	missense_variant	1		Y	3	STRUCT-neutral		628
+c.-129_-125delATAAC	upstream_gene_variant	1		Y	3	NA		
+c.-18A>G	upstream_gene_variant	1		Y	3	NA		
+c.-299T>C	upstream_gene_variant	1		Y	3	NA		
+c.-317C>T	upstream_gene_variant	1		N		NA		
+c.-349C>T	upstream_gene_variant	1		Y	3	NA		
+c.-430G>A	upstream_gene_variant	1		N		NA		
+c.-432G>A	upstream_gene_variant	1		Y	3	NA		
+c.-482T>G	upstream_gene_variant	1		Y	3	NA		
+c.-515A>C	upstream_gene_variant	1		N		NA		
+c.1185T>G	synonymous_variant	1		Y	4	NA		
+c.156G>T	synonymous_variant	1		Y	4	NA		
+c.1572C>T	synonymous_variant	1		Y	4	NA		
+c.1695G>T	synonymous_variant	1		Y	4	NA		
+c.1980C>T	synonymous_variant	1		Y	4	NA		
+c.2208G>A	synonymous_variant	1		Y	4	NA		
+c.276C>T	synonymous_variant	1		Y	4	NA		
+c.372C>T	synonymous_variant	1		Y	4	NA		
+c.417C>G	synonymous_variant	1		N		NA		
+c.421_423delTTGinsCTC	synonymous_variant	1		Y	4	NA		
+c.696G>C	synonymous_variant	1		N		NA		
+c.81A>G	synonymous_variant	1		Y	4	NA		
+p.Ala168Thr	missense_variant	1		Y	3	STRUCT-neutral		168
+p.Ala168Val	missense_variant	1		Y	3	STRUCT-neutral		168
+p.Ala479Val	missense_variant	1		Y	3	STRUCT-neutral		479
+p.Ala555Pro	missense_variant	1		Y	3	STRUCT-R	R3	555
+p.Ala585fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Ala614Glu	missense_variant	1		Y	3	STRUCT-R	R3	614
+p.Arg128Gln	missense_variant	1		Y	3	STRUCT-R	R3	128
+p.Asn133Ser	missense_variant	1		Y	3	STRUCT-neutral		133
+p.Asp247His	missense_variant	1		Y	3	STRUCT-R	R3	247
+p.Gln352Pro	missense_variant	1		Y	3	STRUCT-R	R3	352
+p.Gln439Lys	missense_variant	1		Y	3	STRUCT-R	R3	439
+p.Gln578Pro	missense_variant	1		Y	3	STRUCT-neutral		578
+p.Glu287Gly	missense_variant	1		Y	3	STRUCT-R	R4	287
+p.Glu526Asp	missense_variant	1		Y	3	STRUCT-neutral		526
+p.Gly601Asp	missense_variant	1		Y	3	STRUCT-neutral		601
+p.Gly644Asp	missense_variant	1		Y	3	STRUCT-R	R3	644
+p.Ile8Val	missense_variant	1		Y	3	NA	no-structure	8
+p.Leu704Trp	missense_variant	1		Y	3	STRUCT-neutral		704
+p.Leu707Pro	missense_variant	1		Y	3	STRUCT-R	R4	707
+p.Lys590fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Lys730Asn	missense_variant	1		Y	3	STRUCT-neutral		730
+p.Met176Thr	missense_variant	1		Y	3	STRUCT-neutral		176
+p.Met58Val	missense_variant	1		Y	3	STRUCT-neutral		58
+p.Pro241His	missense_variant	1		Y	3	STRUCT-R	R3	241
+p.Pro52Arg	missense_variant	1		Y	3	STRUCT-R	R4	52
+p.Ser482Pro	missense_variant	1		Y	3	STRUCT-R	R3	482
+p.Thr308Pro	missense_variant	1		N		STRUCT-R	R3	308
+p.Thr435Ile	missense_variant	1		Y	3	STRUCT-neutral		435
+p.Tyr197fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Tyr339fs	frameshift	1		Y	2	STRUCT-R	R0-LoF	
+p.Val503Ala	missense_variant	1		Y	3	STRUCT-neutral		503
