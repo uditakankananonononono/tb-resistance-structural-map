@@ -1,0 +1,48 @@
+MUTATION	hgvs	codon	who_grade	score	STRUCT_R	n_solo	median_mic	frac_R	n_high	class	status
+S94A	p.Ser94Ala	94	2.0	3.482	True	37	1.6	0.8378378378378378	30	contact	grade2
+I194T	p.Ile194Thr	194	3.0	2.941	True	34	3.2	0.9705882352941176	29	contact	grade3
+T162S	p.Thr162Ser	162	3.0	7.054	True	21	3.2	1.0	18	shell	grade3
+E196A	p.Glu196Ala	196		3.195	True	10	1.6	0.8	10	contact	uncatalogued
+P12R	p.Pro12Arg	12		8.829	True	9	3.2	0.8888888888888888	8	distal	uncatalogued
+I228V	p.Ile228Val	228	3.0	15.09	False	6	0.03125	0.16666666666666666	6	distal	grade3
+V78A	p.Val78Ala	78	5.0	13.392	False	6	0.0125	0.0	4	distal	grade5
+I21V	p.Ile21Val	21	3.0	2.776	True	5	3.2	0.6	4	contact	grade3
+I21T	p.Ile21Thr	21	3.0	2.776	True	5	1.6	1.0	4	contact	grade3
+S126N	p.Ser126Asn	126		6.881	True	5	0.05	0.2	4	shell	uncatalogued
+T4I	p.Thr4Ile	4		19.232	False	4	0.05	0.0	4	distal	uncatalogued
+P81A	p.Pro81Ala	81		17.203	False	4	0.03125	0.0	4	distal	uncatalogued
+A190S	p.Ala190Ser	190	3.0	5.64	True	3	3.2	1.0	1	shell	grade3
+E209G	p.Glu209Gly	209	3.0	15.717	False	2	3.2	1.0	2	distal	grade3
+A71T	p.Ala71Thr	71		8.692	False	2	0.80625	0.5	2	distal	uncatalogued
+V203A	p.Val203Ala	203	3.0	8.491	False	2	0.05	0.0	2	distal	grade3
+H78Q	p.His78Gln	78		13.392	False	2	0.05	0.0	2	distal	uncatalogued
+I95V	p.Ile95Val	95	3.0	3.238	True	2	0.6000000000000001	1.0	2	contact	grade3
+V171I	p.Val171Ile	171	3.0	12.797	False	2	0.0125	0.0	1	distal	grade3
+G54E	p.Gly54Glu	54		12.33	False	2	3.2	1.0	1	distal	uncatalogued
+V20I	p.Val20Ile	20		2.802	True	2	1.625	0.5	2	contact	uncatalogued
+D195N	p.Asp195Asn	195		4.995	True	1	0.05	0.0	1	shell	uncatalogued
+D89N	p.Asp89Asn	89	3.0	18.904	False	1	0.05	0.0	1	distal	grade3
+A133T	p.Ala133Thr	133	3.0	12.467	False	1	0.0125	0.0	1	distal	grade3
+A202V	p.Ala202Val	202		7.84	True	1	0.0125	0.0	1	shell	uncatalogued
+A208S	p.Ala208Ser	208		15.122	False	1	0.05	0.0	1	distal	uncatalogued
+D248N	p.Asp248Asn	248	3.0	21.472	False	1	0.0125	0.0	1	distal	grade3
+A9T	p.Ala9Thr	9		18.468	False	1	0.05	0.0	1	distal	uncatalogued
+A93S	p.Ala93Ser	93		5.551	True	1	3.2	1.0	0	shell	uncatalogued
+A235V	p.Ala235Val	235	3.0	7.387	True	1		0.0	1	shell	grade3
+A239V	p.Ala239Val	239	3.0	10.054	False	1	0.2	1.0	1	distal	grade3
+D52G	p.Asp52Gly	52	3.0	13.979	False	1	0.0125	0.0	1	distal	grade3
+M135I	p.Met135Ile	135		16.696	False	1	0.0125	0.0	0	distal	uncatalogued
+I16T	p.Ile16Thr	16	3.0	3.595	True	1	0.1	0.0	1	contact	grade3
+E80A	p.Glu80Ala	80	3.0	17.558	False	1	0.05	0.0	1	distal	grade3
+G40W	p.Gly40Trp	40	3.0	4.63	True	1	3.2	1.0	1	shell	grade3
+G54W	p.Gly54Trp	54		12.33	False	1	0.0125	0.0	1	distal	uncatalogued
+G76S	p.Gly76Ser	76	3.0	16.579	False	1	0.05	0.0	1	distal	grade3
+G83R	p.Gly83Arg	83	3.0	22.001	False	1	0.0125	0.0	1	distal	grade3
+G212S	p.Gly212Ser	212	3.0	12.126	False	1	0.0125	0.0	1	distal	grade3
+K10R	p.Lys10Arg	10		14.311	False	1	25.6	1.0	1	distal	uncatalogued
+N231K	p.Asn231Lys	231	3.0	8.796	False	1	0.0125	0.0	1	distal	grade3
+N130H	p.Asn130His	130		7.417	True	1	0.05	0.0	1	shell	uncatalogued
+Q100H	p.Gln100His	100	3.0	11.791	False	1	3.2	1.0	1	distal	grade3
+Q35R	p.Gln35Arg	35	3.0	18.231	False	1	3.2	1.0	1	distal	grade3
+T236A	p.Thr236Ala	236		10.258	False	1	0.0125	0.0	1	distal	uncatalogued
+V91A	p.Val91Ala	91	3.0	12.008	False	1	0.05	0.0	1	distal	grade3

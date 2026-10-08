@@ -1,0 +1,37 @@
+=== inhA G1 validation vs WHO 2023 (locked rule) ===
+WHO subset rows: 520 grades: {1: 3, 2: 13, 3: 379, 4: 121, 5: 4}
+all grade-1/2 rows: 16 by effect: {'upstream_gene_variant': 14, 'missense_variant': 2}
+   inhA_c.-154G>A | Ethionamide | grade 2 | upstream_gene_variant
+   inhA_c.-770T>A | Ethionamide | grade 2 | upstream_gene_variant
+   inhA_c.-770T>C | Ethionamide | grade 2 | upstream_gene_variant
+   inhA_c.-770T>G | Ethionamide | grade 2 | upstream_gene_variant
+   inhA_c.-777C>T | Ethionamide | grade 1 | upstream_gene_variant
+   inhA_c.-778A>G | Ethionamide | grade 2 | upstream_gene_variant
+   inhA_c.-779G>T | Ethionamide | grade 2 | upstream_gene_variant
+   inhA_p.Ser94Ala | Ethionamide | grade 2 | missense_variant
+   inhA_c.-154G>A | Isoniazid | grade 1 | upstream_gene_variant
+   inhA_c.-770T>A | Isoniazid | grade 2 | upstream_gene_variant
+   inhA_c.-770T>C | Isoniazid | grade 2 | upstream_gene_variant
+   inhA_c.-770T>G | Isoniazid | grade 2 | upstream_gene_variant
+   inhA_c.-777C>T | Isoniazid | grade 1 | upstream_gene_variant
+   inhA_c.-778A>G | Isoniazid | grade 2 | upstream_gene_variant
+   inhA_c.-779G>T | Isoniazid | grade 2 | upstream_gene_variant
+   inhA_p.Ser94Ala | Isoniazid | grade 2 | missense_variant
+
+G1 denominator (unique grade-1/2 protein-altering variants, union across drugs): 1
+  inhA_p.Ser94Ala | Ethionamide+Isoniazid | grade 2 | dist 3.482 | contact | R1 True R2 True R3 False -> STRUCT-R
+
+G1 RESULT: 1/1 = 100.0% STRUCT-R  (gate >= 90%)
+G1: PASS
+
+per-drug (row-level): {'Ethionamide': '1/1', 'Isoniazid': '1/1'}
+
+DISCREPANCIES (grade-1/2 labeled STRUCT-neutral): 0
+
+G1b specificity: grade-4/5 protein-altering rows: 1 STRUCT-R rate 0.0%
+grade-3 (uncertain, reported separately): 139 rows, STRUCT-R rate 33.1%
+
+PROMOTER LINE (descriptive, not gated): upstream entries in -1..-50 class: 28
+  grade distribution: {3: 27, 5: 1}
+
+synonymous (context): 122 rows, grades: {4: 121, 5: 1}

@@ -1,0 +1,8 @@
+MUTATION	hgvs	codon	who_grade	score	STRUCT_R	n_solo	median_mic	frac_R	n_high	class	status
+I194T	p.Ile194Thr	194	3.0	2.941	True	34	3.2	0.9705882352941176	29	contact	grade3
+T162S	p.Thr162Ser	162	3.0	7.054	True	21	3.2	1.0	18	shell	grade3
+E196A	p.Glu196Ala	196		3.195	True	10	1.6	0.8	10	contact	uncatalogued
+P12R	p.Pro12Arg	12		8.829	True	9	3.2	0.8888888888888888	8	distal	uncatalogued
+I21V	p.Ile21Val	21	3.0	2.776	True	5	3.2	0.6	4	contact	grade3
+I21T	p.Ile21Thr	21	3.0	2.776	True	5	1.6	1.0	4	contact	grade3
+A190S	p.Ala190Ser	190	3.0	5.64	True	3	3.2	1.0	1	shell	grade3

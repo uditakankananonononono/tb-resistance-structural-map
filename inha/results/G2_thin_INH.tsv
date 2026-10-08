@@ -1,0 +1,5 @@
+MUTATION	hgvs	codon	who_grade	score	STRUCT_R	n_solo	median_mic	frac_R	n_high	class	status
+I95V	p.Ile95Val	95	3.0	3.238	True	2	0.6000000000000001	1.0	2	contact	grade3
+V20I	p.Val20Ile	20		2.802	True	2	1.625	0.5	2	contact	uncatalogued
+A93S	p.Ala93Ser	93		5.551	True	1	3.2	1.0	0	shell	uncatalogued
+G40W	p.Gly40Trp	40	3.0	4.63	True	1	3.2	1.0	1	shell	grade3
